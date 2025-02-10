@@ -13,7 +13,7 @@ Follow the instructions below to create your first example fail log:
 3. You will now notice that the top left resembles the following - this means you now have your own copy of the fail log to get started:
 ````
 YourUsername\example_fail_log_anth
-forked from rblades\example_fail_log_anth
+forked from stantis\example_fail_log_anth
 ````
 4. In your new forked repository, open the file ``2025-02-06-week-1-fail-log.md``.
 5. Change the date in the file title to today's date (using the YYYY-MM-DD convention). You may also wish to change the ``week-1-fail-log`` to something more descriptive. 
@@ -32,7 +32,7 @@ You can also edit this main file (``README.md``) in your forked copy of the repo
 Each week you will create a new fail log file at the root of your forked repository. To create a new file in your GitHub repository, follow the instructions below:
 
 1. At the root of your repository, click the button labelled ``Create new file``. For reference, visit [GitHub's instructional guide for creating new files](https://help.github.com/en/articles/creating-new-files).
-2. Title your file to resemble the following: ``2019-04-12-week-2-fail-log.md``. **Always title your file with the date first (using the YYYY-MM-DD convention)**.
+2. Title your file to resemble the following: ``2025-02-13-week-2-fail-log.md``. **Always title your file with the date first (using the YYYY-MM-DD convention)**.
 3. This creates a new markdown (.md) file. 
 4. Add your fail log for that week.
 5. At the bottom of the file, enter a brief 'commit' message about what you updated.
