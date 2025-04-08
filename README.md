@@ -10,9 +10,10 @@ Follow the instructions below to create your first example fail log:
 
 1. Navigate to the [root of this GitHub repository](https://github.com/stantis/example_fail_log_anth).
 2. At the top right of the page, click the button labelled ``Fork``.
-3. You will now notice that the top left resembles the following - this means you now have your own copy of the fail log to get started:
+3. Rename this repo ``ANTH410R``. 
+4. You will now notice that the top left resembles the following - this means you now have your own copy of the fail log to get started:
 ````
-YourUsername\example_fail_log_anth
+YourUsername\ANTH410R
 forked from stantis\example_fail_log_anth
 ````
 4. In your new forked repository, open the file ``2025-02-06-week-1-fail-log.md``.
