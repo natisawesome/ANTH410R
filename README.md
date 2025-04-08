@@ -42,7 +42,7 @@ Each week you will create a new fail log file at the root of your forked reposit
 
 ## Create a new folder in GitHub in the browser
 
-You may also wish to organize each week into separate folders. That way you can add more files for each week. For example, for Module 1 you have your file log and a file containing all the commands you entered into the DH Box terminal that week. Adding a new folder is just as simple as adding a new file in your GitHub repository. Follow the instructions below:
+You may also wish to organize each week into separate folders. That way you can add more files for each week. For example, for Week 2 you have your fail log and the document that you practiced working with Zotero on. Adding a new folder is just as simple as adding a new file in your GitHub repository. Follow the instructions below:
 
 1. At the root of your repository, click the button labelled ``Create new file``. For reference, visit [GitHub's instructional guide for creating new files](https://help.github.com/en/articles/creating-new-files).
 2. **However**, in this case you type your folder name followed by a slash ``/``. This will create the new folder.
