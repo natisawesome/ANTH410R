@@ -17,8 +17,9 @@ forked from stantis\example_fail_log_anth
 ````
 4. In your new forked repository, open the file ``2025-02-06-week-1-fail-log.md``.
 5. Change the date in the file title to today's date (using the YYYY-MM-DD convention). You may also wish to change the ``week-1-fail-log`` to something more descriptive. 
-6. Each week you will include a link to your 3 most important Perusall annotations and reflect on how the 3 annotations were meaningful to your learning.
+6. Each week you will include a link to your 3 most important Perusall annotations and reflect on how the 3 annotations were meaningful to your learning. Make use of Markdown language to make your documentation easier to read. 
 7. In the first week you will also reflect on your worries for the course, any technical issues you encountered, etc.
+8. In later weeks, this repo will also serve as a way to show me what you've done for the week (note: you're still welcome to also include any technical issues you encountered etc.).   
 
 You can also edit this main file (``README.md``) in your forked copy of the repository to contain a summary of your fail logs. The README file is the first file people read when they visit your repository. To edit this file, follow the instruction below:
 
