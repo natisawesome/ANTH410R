@@ -5,7 +5,9 @@ This week we are focusing on library research and literature reviewing utilizing
 - Google Scholar
 - University Library Resources
 ## Struggles
+I struggled a bit with research rabbit. I could not figure out how to exit after I posted a new article in the shared collection. I reread the materials and watched the video and was able to figure it out.
 ### Progress on my struggles from last week
+I have become more literate when utilizing GitHub and Persuall. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## Successes
 ## What to work on
 ## What I have learned this week
@@ -25,5 +27,4 @@ The first week in this class, I spent trying to figure out how to use GitHub, wh
 I also spent a lot of time figuring out another website called Perusall, where I am able to annotate and comment on my course readings. I did a practice comment that is linked here [Week 1 Perusall Practice Comment](https://app.perusall.com/courses/fall-2025-anthropology-of-science-and-technology-anth-410r-950/digital-anthropology-syllabus-553064581?annotationId=ZyuyYExzhnp3Qqngx.) This is important as it is helping me learn how to work Perusall and Github. I am excited to continue learning and working through some things that I do not necessarily understand. 
 ## Things I want to work on
 Next week I hope that I am more literate in Github and Persuall. I hope that over the weekend I watch some videos on these things and educate myself more on them.
-## Things I have learned 
-I followed all the directions that I was provided and have also been reading the extra information that has been linked. My favorite helpful links that were provided for Github specifically are: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) and [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) This week has also shown me that even though things appear unfamiliar, it will be okay, no matter what with the support of my peers and the instructions provided by my instructor I will be able to figure out how to work new things. Additionally, even if I do not get it on the first try that reviewing the instructions and using my sources I will get closer to the answer in my next couple of trys. 
+
