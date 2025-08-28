@@ -5,12 +5,12 @@ This week we are focusing on library research and literature reviewing utilizing
 - Google Scholar
 - University Library Resources
 ## Struggles
-I struggled a bit with research rabbit. I could not figure out how to exit after I posted a new article in the shared collection. I reread the materials and watched the video and was able to figure it out.
+I struggled a bit with research rabbit. I could not figure out how to exit after I posted a new article in the shared collection. The answer was right in front of my eyes. If I hovered over the section on the right an X would appear and I would be able to exit back to the main page. I reread the materials and watched the video and was able to figure it out.
 ### Progress on my struggles from last week
 I have become more literate when utilizing GitHub and Persuall. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## Successes
 ## What to work on
-## What I have learned this week
+
 
 
 
