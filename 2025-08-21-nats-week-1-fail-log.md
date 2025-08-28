@@ -1,3 +1,20 @@
+# Week 2 fail lof
+## Summary of my experience
+## Struggles
+### Progress on my struggles from last week
+## Successes
+## What to work on
+## What I have learned this week
+
+
+
+
+
+
+
+
+
+
 # Week 1 fail log
 ## Summary of my experience
 The first week in this class, I spent trying to figure out how to use GitHub, which, honestly, I am not the best at, I have encountered a lot of times where I was a bit confused setting this all up. Eventually, I gave in and googled a step due to my lack of knowledge surrounding this website. For example, I couldn't figure out how to edit, and after a couple of minutes of looking around I finally googled and learned that the way to edit these pages was right in front of my eyes... all I had to do was click the pencil icon. 
