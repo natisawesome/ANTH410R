@@ -3,3 +3,4 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ## Week 2 notes
 ## Vocabulary
 ## Helpful links
+## Learning Goals
