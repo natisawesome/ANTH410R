@@ -4,3 +4,6 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ## Vocabulary
 ## Helpful links
 ## Learning Goals
+# Week 1
+## Things I have learned 
+I followed all the directions that I was provided and have also been reading the extra information that has been linked. My favorite helpful links that were provided for Github specifically are: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) and [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) This week has also shown me that even though things appear unfamiliar, it will be okay, no matter what with the support of my peers and the instructions provided by my instructor I will be able to figure out how to work new things. Additionally, even if I do not get it on the first try that reviewing the instructions and using my sources I will get closer to the answer in my next couple of trys. 
