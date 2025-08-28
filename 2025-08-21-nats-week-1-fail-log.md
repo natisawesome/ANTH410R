@@ -1,5 +1,9 @@
-# Week 2 fail lof
+# Week 2 fail log
 ## Summary of my experience
+This week we are focusing on library research and literature reviewing utilizing three things:
+- Research Rabbit
+- Google Scholar
+- University Library Resources
 ## Struggles
 ### Progress on my struggles from last week
 ## Successes
