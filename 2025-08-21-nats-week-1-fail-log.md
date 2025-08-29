@@ -12,6 +12,8 @@ This week we are focusing on library research and literature reviewing utilizing
 ### Progress on my struggles from last week
 I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
+## Reading for the Week
+[Will it Ever be FAIR](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/will-it-ever-be-fair/9073D28A74C2FE87E53B3C5A7437AC74)
 ### Week 2 Will It Ever Be FAIR Annotations:
 - "This section stood out to me because it really puts into perspective the fact that you can do your best to implement policies incorporating the FAIR and Care principles, but if the "stewards" of this do not take appropriate steps the whole system could be impacted"
 - "Is this something that CRM firms are implementing currently or thinking about implementing? If not, if professional organizations do endorse the FAIR and CARE principles would they then be able to push/work with CRM firms to implement the principles. A sort of lead by example situation starting with the professional societies."
