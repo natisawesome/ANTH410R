@@ -2,10 +2,10 @@
 Hi, I am Nat a current undergraduate student in anthropology. My passions in anthropology are bioarcaeology and forensic anthropology. In the future, I hope to do government work in relation to repatriation of fallen soliders, or humanitarian work to help identify and repatriate those who suffered at the hands of genocide around the world. This passion of mine was inspired by my family members who survived the holocaust, many of them did not. I hope I will be able to bring closure to families who were always left wondering what happened and where their family members ended up. This blog will follow my journey through a class that focuses on science and technology in anthropology. I'm excited to start learning!!
 ## Vocabulary
 ## Helpful links
-- Week 1
+### Week 1
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
 - [Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
-- Week 2
+### Week 2
 - [Research Rabbit](https://www.youtube.com/watch?v=phWqcGcxeE4&t=2s)
 - [Google Scholar](https://www.youtube.com/watch?v=FrzmPkOMHh4&embeds_referring_euri=https%3A%2F%2Fmycourses.siu.edu%2F&source_ve_path=Mjg2NjY)
 ## Learning Goals
