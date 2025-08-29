@@ -10,7 +10,9 @@ I struggled a bit with research rabbit. I could not figure out how to exit after
 I have become more literate when utilizing GitHub and Persuall. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
 ### Week 2 Will It Ever Be FAIR Annotations:
-
+"This section stood out to me because it really puts into perspective the fact that you can do your best to implement policies incorporating the FAIR and Care principles, but if the "stewards" of this do not take appropriate steps the whole system could be impacted"
+"Is this something that CRM firms are implementing currently or thinking about implementing? If not, if professional organizations do endorse the FAIR and CARE principles would they then be able to push/work with CRM firms to implement the principles. A sort of lead by example situation starting with the professional societies."
+"This appears to be something that graduate students, undergraduates, and professionals would all run into. Creating busy work "data munging" rather than allowing the individuals time on their research. Ultimately, taking away from the whole of anthropology. Is there a source that discusses how "data munging" impacts research throughout the entity of anthropology?"
 
 
 
