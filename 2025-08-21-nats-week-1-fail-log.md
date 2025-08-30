@@ -7,7 +7,6 @@ This week we are focusing on library research and literature reviewing utilizing
 ## Struggles
 ### Research Rabbit:
 - I struggled a bit with Research Rabbit. I could not figure out how to exit after I posted a new article in the shared collection. The answer was right in front of my eyes. If I hovered over the section on the right an X would appear and I would be able to exit back to the main page. I reread the materials and watched the video and was able to figure it out.
-<img width="1196" height="721" alt="Saved photo of a question regarding research rabbit" src="https://github.com/user-attachments/assets/dbba9bd0-ecb9-4e64-bbd2-360a189f5630" />
 
 - Another skill I learned was how to add articles to shared collections on Research Rabbit. I added the article "Addendum: The FAIR Guiding Principles for scientific data management and stewardship (2019)" because the originial article "The FAIR Guiding Principles for scientific data management and stewardship (2016)" was in the collection already. From my understanding an Addendum is an addition or revision going into more detail from previous work, so I thought that it was important to include the addendum from the original article in the collection.
 <img width="578" height="690" alt="Saved Photo before for ANth week 2" src="https://github.com/user-attachments/assets/a1723e3b-225d-4ede-846b-aa881a5c08f1" />
