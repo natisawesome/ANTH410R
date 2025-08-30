@@ -28,7 +28,7 @@ This week we are focusing on library research and literature reviewing utilizing
 - This week I watch videos kindly provided by our university librarian in regards to our universitys library. I was happy to see that the universitys library website works with zotero, which I have used for other classes. One thing I learned this week from the videos is that I can just input key words into the search. In the past, I had always done phrases or sentences and it seems like key words is an easier way to navigate the website.
 - I have always preferred Google Scholar to the library website and I still believe that holds true. But, I will continue to use my university account to gain access to otherwise locked articles on Google Scholar
 ### Progress on my struggles from last week
-I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. 
+I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. I have finally figured it out!!
 I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
 - Brainstorming ideas for how I can incorporate Research Rabbit into my current research.
