@@ -19,6 +19,7 @@ This week we are focusing on library research and literature reviewing utilizing
 - This week I compared Google Scholar to Microsoft Bing. I googled "Open Data Archeology" on both of the platforms and there were some noticable differences. On Microsoft Bing there were a lot more open data centers where I could go to get or publish data, which would facilitate actual use of data for research. On Google Scholar there were research articles where I could read about open data and the importance of it in archaeology. I would use Microsoft Bing if I was looking for actual data or wanted to publish some data, while I would use Google Scholar to do research or write about the importance of open data in archaeology.
 ### Microsoft Bing
 <img width="519" height="332" alt="anth week 2 bing 2" src="https://github.com/user-attachments/assets/629b1c65-e9e0-4574-b935-4fb9a8a815a2" />
+<img width="506" height="251" alt="anth week 2 bing 3" src="https://github.com/user-attachments/assets/e5894cab-1f9f-4fef-850f-5310e72405e1" />
 
 ### Google Scholar
 <img width="482" height="620" alt="anth week 2 google scholar" src="https://github.com/user-attachments/assets/d3fe8d58-cdb7-4f42-8b1d-47a9b6116339" />
