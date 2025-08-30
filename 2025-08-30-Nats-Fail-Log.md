@@ -16,7 +16,7 @@ This week we are focusing on library research and literature reviewing utilizing
 <img width="545" height="699" alt="saved photo after for anth" src="https://github.com/user-attachments/assets/f767d5a9-13b2-4fdd-9b5d-818439ea712b" />
 
 ## Google Scholar
-- This week I compared Google Scholar to Microsoft Bing. I googled "Open Data Archeology" on both of the platforms and there were some noticable differences. On Microsoft Bing there were a lot more open data centers where I could go to get or publish data, which would facilitate actual use of data for research. On Google Scholar there were research articles where I could read about open data and the importance of it in archaeology. I would use Microsoft Bing if I was looking for actual data or wanted to publish some data, while I would use Google Scholar to do research or write about the importance of open data in archaeology.
+- This week I compared Google Scholar to Microsoft Bing, both of which I am familiar with so I was easily able to navigate I googled "Open Data Archeology" on both of the platforms and there were some noticable differences. On Microsoft Bing there were a lot more open data centers where I could go to get or publish data, which would facilitate actual use of data for research. On Google Scholar there were research articles where I could read about open data and the importance of it in archaeology. I would use Microsoft Bing if I was looking for actual data or wanted to publish some data, while I would use Google Scholar to do research or write about the importance of open data in archaeology.
 ### Microsoft Bing
 <img width="519" height="332" alt="anth week 2 bing 2" src="https://github.com/user-attachments/assets/629b1c65-e9e0-4574-b935-4fb9a8a815a2" />
 <img width="506" height="251" alt="anth week 2 bing 3" src="https://github.com/user-attachments/assets/e5894cab-1f9f-4fef-850f-5310e72405e1" />
@@ -24,10 +24,15 @@ This week we are focusing on library research and literature reviewing utilizing
 ### Google Scholar
 <img width="482" height="620" alt="anth week 2 google scholar" src="https://github.com/user-attachments/assets/d3fe8d58-cdb7-4f42-8b1d-47a9b6116339" />
 
- Then start a new line to go back to 'regular' font). In this section, write briefly about what you found when looking on both types of search engines. What sorts of sources did Google Scholar find? What did the other search engine find. In what instances might another source be better? 
+## University Library Resource
+- This week I watch videos kindly provided by our university librarian in regards to our universitys library. I was happy to see that the universitys library website works with zotero, which I have used for other classes. One thing I learned this week from the videos is that I can just input key words into the search. In the past, I had always done phrases or sentences and it seems like key words is an easier way to navigate the website.
+- I have always preferred Google Scholar to the library website and I still believe that holds true. But, I will continue to use my university account to gain access to otherwise locked articles on Google Scholar
 ### Progress on my struggles from last week
-I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. I feel way more comfortable navigating the two with a bit of practice and experience.
+I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. 
+I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
+- Brainstorming ideas for how I can incorporate Research Rabbit into my current research.
+- Continue to become more literate using Persuall and GitHub.
 ## Reading for the Week
 [Will it Ever be FAIR](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/will-it-ever-be-fair/9073D28A74C2FE87E53B3C5A7437AC74)
 ### Week 2 Will It Ever Be FAIR Annotations:
