@@ -16,6 +16,14 @@ This week we are focusing on library research and literature reviewing utilizing
 <img width="545" height="699" alt="saved photo after for anth" src="https://github.com/user-attachments/assets/f767d5a9-13b2-4fdd-9b5d-818439ea712b" />
 
 ## Google Scholar
+- This week I compared Google Scholar to Microsoft Bing. I googled "Open Data Archeology" on both of the platforms and there were some noticable differences. On Microsoft Bing there were a lot more open data centers where I could go to get or publish data, which would facilitate actual use of data for research. On Google Scholar there were research articles where I could read about open data and the importance of it in archaeology. I would use Microsoft Bing if I was looking for actual data or wanted to publish some data, while I would use Google Scholar to do research or write about the importance of open data in archaeology.
+### Microsoft Bing
+<img width="519" height="332" alt="anth week 2 bing 2" src="https://github.com/user-attachments/assets/629b1c65-e9e0-4574-b935-4fb9a8a815a2" />
+
+### Google Scholar
+<img width="482" height="620" alt="anth week 2 google scholar" src="https://github.com/user-attachments/assets/d3fe8d58-cdb7-4f42-8b1d-47a9b6116339" />
+
+ Then start a new line to go back to 'regular' font). In this section, write briefly about what you found when looking on both types of search engines. What sorts of sources did Google Scholar find? What did the other search engine find. In what instances might another source be better? 
 ### Progress on my struggles from last week
 I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
