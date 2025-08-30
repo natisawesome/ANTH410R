@@ -4,6 +4,7 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ### Week 1
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) 
 - [Daring Fireball](https://daringfireball.net/projects/markdown/syntax)
+- [Footnote How To](https://www.bing.com/videos/riverview/relatedvideo?q=how+to+put+in+a+footnote+in+github&&mid=5EDAE04394D339B77D975EDAE04394D339B77D97&&mmscn=stvo&FORM=VRDGAR)
 ### Week 2
 - [Research Rabbit](https://www.youtube.com/watch?v=phWqcGcxeE4&t=2s)
 - [Google Scholar](https://www.youtube.com/watch?v=FrzmPkOMHh4&embeds_referring_euri=https%3A%2F%2Fmycourses.siu.edu%2F&source_ve_path=Mjg2NjY)
