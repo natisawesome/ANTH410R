@@ -19,4 +19,5 @@ Research Rabbit does generate some questions from me about how the recommendatio
 # Week 1
 I followed all the directions that I was provided and have also been reading the extra information that has been linked. My favorite helpful links that were provided for Github specifically are: [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) and [Daring Fireball](https://daringfireball.net/projects/markdown/syntax) This week has also shown me that even though things appear unfamiliar, it will be okay, no matter what with the support of my peers and the instructions provided by my instructor I will be able to figure out how to work new things. Additionally, even if I do not get it on the first try that reviewing the instructions and using my sources I will get closer to the answer in my next couple of trys. 
 
+## Footnotes: 
 [^1]: [Source](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/will-it-ever-be-fair/9073D28A74C2FE87E53B3C5A7437AC74)
