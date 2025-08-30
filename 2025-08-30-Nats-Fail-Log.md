@@ -4,8 +4,8 @@ This week we are focusing on library research and literature reviewing utilizing
 - Research Rabbit
 - Google Scholar
 - University Library Resources
-## Struggles
-### Research Rabbit:
+## Struggles and Successes
+## Research Rabbit:
 - I struggled a bit with Research Rabbit. I could not figure out how to exit after I posted a new article in the shared collection. The answer was right in front of my eyes. If I hovered over the section on the right an X would appear and I would be able to exit back to the main page. I reread the materials and watched the video and was able to figure it out.
 
 - Another skill I learned was how to add articles to shared collections on Research Rabbit. I added the article "Addendum: The FAIR Guiding Principles for scientific data management and stewardship (2019)" because the originial article "The FAIR Guiding Principles for scientific data management and stewardship (2016)" was in the collection already. From my understanding an Addendum is an addition or revision going into more detail from previous work, so I thought that it was important to include the addendum from the original article in the collection. Research Rabbit utilizes a similar work feature. This feature shows you similar work to the article or collection you are working on. I have added the before and after images of the similar work section, which show the difference between the section before and after I added the article to the collection. You can really see a difference between the two. 
@@ -15,6 +15,7 @@ This week we are focusing on library research and literature reviewing utilizing
 ### After
 <img width="545" height="699" alt="saved photo after for anth" src="https://github.com/user-attachments/assets/f767d5a9-13b2-4fdd-9b5d-818439ea712b" />
 
+## Google Scholar
 ### Progress on my struggles from last week
 I have become more literate when utilizing GitHub and Persuall. Although, I am still working on certain aspects for markdowns. For example, I am trying to add a footnote to my blog post for the week and it is not neccesarily working how it is meant to. I feel way more comfortable navigating the two with a bit of practice and experience.
 ## What to work on
