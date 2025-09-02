@@ -1,9 +1,9 @@
 # Week 3 fail log
 ## Summary of my experience
 ## Struggles and Successes
-## Zotero
+### Zotero
 ## Progress on my Struggles from Last Week
-## What to Work on
+### What to Work on
 ## Reading for the Week
 ### Annotations 
 
