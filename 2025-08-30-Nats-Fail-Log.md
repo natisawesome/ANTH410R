@@ -1,3 +1,19 @@
+# Week 3 fail log
+## Summary of my experience
+## Struggles and Successes
+## Zotero
+## Progress on my Struggles from Last Week
+## What to Work on
+## Reading for the Week
+### Annotations 
+
+
+
+
+
+
+
+
 # Week 2 fail log
 ## Summary of my experience
 This week we are focusing on library research and literature reviewing utilizing three things:
