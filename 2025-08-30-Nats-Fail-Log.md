@@ -1,5 +1,7 @@
 # Week 3 fail log
 ## Summary of my experience
+This week we are focusing on citation management software
+- Zotero
 ## Struggles and Successes
 ### Zotero
 ## Progress on my Struggles from Last Week
