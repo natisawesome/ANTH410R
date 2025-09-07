@@ -4,8 +4,17 @@ This week we are focusing on citation management software
 - Zotero
 ## Struggles and Successes
 ### Zotero
+This week I really struggled with Zotero. I had already had an account and used it for other things but it did not seem to be linked to any of my emails and I could not regain access to it. I had to log out of that account and all of my citations are gone. I created a new account and that was not working for a while it took half an hour to get the account verification email. After that I tried to join the group through the link and that did not work. I checked the discussion board and luckily my professor had a work around where we had to search the group. I searched the group and still got the error message. I had to reset and redownload zotero. Safe to say I have really struggled this week. I was able to overcome everything that I was struggling with but it was very frustrating.
+### Readings and Discussion (Perusall)
+I felt like the readings and video were a lot. The first reading "The medium is the message" was a lot. I struggled throughout the week to read it taking notes as I went through it. I ended up trying to watch the video from Standford to understand some of the topics and then I couldn't access the video until this weekend (I checked the links again and it worked). With the context of the video the first reading was easier to digest. I just felt really overwhelmed this week and I ended up starting a google doc for my notes going back and forth between my tabs was really throwing me and I was just frustrated. Perusall was glitching for me as well a couple times I had written something and it would just submit the first line that I wrote so I ended up writing everything in a google doc and copy pasting. It was not my week for technology and I have come out of this week very frustrated and overwhelmed. 
+
 ## Progress on my Struggles from Last Week
+- I feel pretty confident in my use of Research Rabbit, Google Scholar, and the Library Website. I am really comfortable using those things.
 ### What to Work on
+- Hopefully my technology decides to work next week
+- Use Zotero more often
+- Continue becoming more literate using these tools
+- Continue to brainstorm ways to incorporate these tools into research.
 ## Reading for the Week
 ### Annotations 
 
