@@ -6,8 +6,16 @@
 ## Progress on my Struggles from Last Week
 ### What to Work on 
 ## Readings for the Week
-### Annotations 
-### Annotations
+- The "Proto-Language" of Anthropological Practice
+- ethnoGRAPHIC fieldnotes
+### Annotations of The "Proto-Language" of Anthropological Practice
+- "I took an independent study where I did an ethnography over a summer. One book I found very helpful was Writing Ethnographic Fieldnotes by Robert Emerson. I highly recommended, it taught me a lot."
+- "I really love the visual this gives us. Reading your own writing allows you to reflect and learn from your previous work. I have definitely done this, and it is an essential part of learning how to write fieldnotes or ethnographies. Self-reflection of our own work while considering how we can improve is a key aspect of growing and learning."
+- "Yes!! When I was working on my ethnography and went back to summarize and write it up, I realized I had experienced this exact moment. It's a common part of learning how to write ethnographies and field notes. You often come to the realization that you missed certain details and may not have taken good enough notes to achieve your goals. However, the next time you work on a similar project, you'll know how to improve, and it will be much better because you’ve learned from the experience."
+- "Would this performativity affect the results of fieldnotes? Maybe excluding or including things just so one is perceived as more anthropological?"
+- "Please correct me if I am wrong but when research involves participant observation, it's important to acknowledge that you may form attachments and develop feelings about certain aspects of the experience. I believe that instead of ignoring these emotions or pretending they don't exist, it may be important to document them in your field notes to avoid bias"
+- I love this idea that fieldnotes are the process of becoming."
+### Annotations of ethnoGRAPHIC Fieldnotes
 # Week 3 fail log
 ## Summary of my experience
 This week we are focusing on citation management software
