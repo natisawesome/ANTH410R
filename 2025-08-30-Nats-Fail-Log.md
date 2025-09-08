@@ -13,7 +13,7 @@ I felt like the readings and video were a lot. The first reading "The medium is 
 ## Progress on my Struggles from Last Week
 - I feel pretty confident in my use of Research Rabbit, Google Scholar, and the Library Website. I am really comfortable using those things.
 ### What to Work on
-The most important things I want to work on are figure out how to use the footnote concept on GitHub to create a table of contents. I feel it in my soul that it is possible to create table on contents with that. The other most important thing I want to work on is to figure out how to find my comments specifically on Persuall (I think I just need to star my comments so I can find all of them fast.
+The most important things I want to work on are figure out how to use the footnote concept on GitHub to create a table of contents. I feel it in my soul that it is possible to create table on contents with that. The other most important thing I want to work on is to figure out how to find my comments specifically on Persuall (I think I just need to star my comments so I can find all of them fast. Oh also one last thing, I really want to figure out how to seperate my paragraphs on GitHub without using hashtags or bullet points.
 - Hopefully my technology decides to work next week
 - Use Zotero more often
 - Continue becoming more literate using these tools
