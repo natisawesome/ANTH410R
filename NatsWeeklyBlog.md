@@ -26,8 +26,8 @@ If I feel that technology reflects humanity; it essentially mirrors us.
 - What constitues being?
 - How do you differantiate humans being from things created from humans being?
 ### Medium is the Message Questions
-Is the Narcissus Trance mentioned by the author related to the modern day problem of AI psychosis? 
-Where if technology mirros humans it agrees with them so much that it drives them further and further down the rabbit hole of psychosis??
+- Is the Narcissus Trance mentioned by the author related to the modern day problem of AI psychosis? 
+- Where if technology mirros humans it agrees with them so much that it drives them further and further down the rabbit hole of psychosis??
 # Week 2
 This week I explored Library Research and Literature Review tools. This exploration included Research Rabbit, Google Scholar, and my schools online library. As I was familirizing myself with these tools I realized that I prefered certain tools over others, and in discussion this week one of my peers (PVM) pointed out that Research Rabbit does a lot of things that Google Scholar does. I whole heartedly agree with this. After exploring, I feel like Google Scholar is the "old" while Research Rabbit is the "new". Research Rabbit allows you to see timelines, connections, and similar articles compared to the sources or articles that you are using. This can save students and professionals a lot of time that they would otherwise spend "data munging" [^1] when they are doing research. Rather than be hunting for articles and not finding anything they are automatically recommended to you. But I will still be using other tools such as Google Scholar and my universitys library to find articles as well. 
 ## Questions
