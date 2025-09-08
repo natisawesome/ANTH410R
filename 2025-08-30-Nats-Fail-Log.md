@@ -1,3 +1,13 @@
+# Week 4 fail log
+## Summary of my experience
+## Struglles and Successes
+### Onenote
+### Readings and Discussion
+## Progress on my Struggles from Last Week
+### What to Work on 
+## Readings for the Week
+### Annotations 
+### Annotations
 # Week 3 fail log
 ## Summary of my experience
 This week we are focusing on citation management software
