@@ -6,7 +6,6 @@ This week we are focusing on citation management software
 ### Zotero
 This week I really struggled with Zotero. I had already had an account and used it for other things but it did not seem to be linked to any of my emails and I could not regain access to it. I had to log out of that account and all of my citations are gone. I created a new account and that was not working for a while it took half an hour to get the account verification email. After that I tried to join the group through the link and that did not work. I checked the discussion board and luckily my professor had a work around where we had to search the group. I searched the group and still got the error message. I had to reset and redownload zotero. Safe to say I have really struggled this week. I was able to overcome everything that I was struggling with but it was very frustrating.
 
-How do you find these papers? How did you decide on your three? Were these papers you've read previously? Ones you read thoroughly before deciding it's helpful? Skimmed? Threw it in after checking out the abstract/description? Let's talk about the pros/cons of choosing references in the discussion board this week.
 ### Readings and Discussion (Perusall)
 I felt like the readings and video were a lot. The first reading "The medium is the message" was a lot. I struggled throughout the week to read it taking notes as I went through it. I ended up trying to watch the video from Standford to understand some of the topics and then I couldn't access the video until this weekend (I checked the links again and it worked). With the context of the video the first reading was easier to digest. I just felt really overwhelmed this week and I ended up starting a google doc for my notes going back and forth between my tabs was really throwing me and I was just frustrated. Perusall was glitching for me as well a couple times I had written something and it would just submit the first line that I wrote so I ended up writing everything in a google doc and copy pasting. It was not my week for technology and I have come out of this week very frustrated and overwhelmed. 
 
@@ -18,9 +17,31 @@ I felt like the readings and video were a lot. The first reading "The medium is 
 - Continue becoming more literate using these tools
 - Continue to brainstorm ways to incorporate these tools into research.
 ## Reading for the Week
-### Annotations 
+- The Medium is the Message
+- Technology and History: "kranzberg's Laws"
+### Annotations "The Medium is the Message"
+- "I really liked this example of an abstract painting as it truly shows how we can go from imagination to creation. McCluhan seems to be emphasizing that everything we interact with or create is a reflection of human creativity. But a lot of times the processes to get there (such as how long it took for humans to make the wheel or railroad) are long and drawn out. However, despite this the "mediums" can "accelerate or amplify" everyday processes such as movement and creativity."
+- "The author seems to bring up the argument of Narcissus style or trance quite a few times throughout the reading. I would be interested in reading more about this. A quick google search, no one source in particular, showed that McLuhan has quite a few papers on this concept. I would be interested to look into the Narcissus trance in relation to modern day problems people are having with AI, such as AI psychosis is this related in some way??"
+- "I agree with Abby on this. Some professors are so opposed to any type of technology that they refuse to let you use those things. Normally they will say something along the lines of, "you need to know how to do it yourselves" or "the citation machines are not going to have what you need to cite and all the effort you put into creating the citation on the website you could have just made the citation in your paper."
+- "I totally agree with you about desire and fantasy being connected to new technology. I also think it ties directly into McLuhan's point that technologies are extensions of us and may bring psychic and social consequences. I am pretty sure when motorcars and TVs first became popular, they were originally adopted by the wealthy and successful, symbols of status. Which created cycles of demand from everyone else (stemming from imagination). Because of that it is as if producers, manufacturers, and the wealthy manipulate desire, while the medium reshapes how everyday people think of success and belonging (social consequences)."
+### Annotations "Technology and History: “Kranzberg’s Laws"
+"Summary of Kranzbergs Laws:
 
+1. Technology is not inherently anything (good, bad, neutral). Its meaning and impact depend on who is using it and how it is being used.
 
+2. The more we invent the more we need to improve. This creates a cycle of creativity and innovation.
+
+3. Technologies advancement toward success is due, in part, by interconnected systems all of which rely on one another. If you improve one part of the system you’ll need to improve the rest.
+
+4. Decisions regarding technology are dominated by economic discourse and opinions of the wealthy, despite not being the most functional or optimal for the people.
+
+5. The history of technology is the most relevant, due to its impact. An understanding of the past will allow us to understand the future and present better.
+
+6. Technology is made for humans by humans therefore technology is a purely human result of innovation.
+
+I find myself agreeing with the first, fourth, and sixth laws. The idea that technology itself is not good, bad, or neutral, rather shaped by human use and how it is used. The first law goes hand in hand with the fourth law. The fourth also stands out to me because, so much of technological development is driven by those with wealth and influence. One example, I can think of is the lightbulb industry; when long lasting lightbulbs were first invented manufacturers of the lightbulbs collectively agreed to shorten their lifespan so that they did not go out of business. This decision benefitted those producing the light bulbs but took away from the rest of society. Finally, the sixth law shows the main truth of technology. That technology is human. Technology reflects our creativity, intentions, motives and beliefs it mirrors who we are.
+
+If you want to know more about the lightbulb situation The Uneasy Case of Programmed Obsolescence by Pierre-Emmanuel Moyse is a really good free paper on it."
 
 
 
