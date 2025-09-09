@@ -3,6 +3,7 @@
 ## Struggles and Successes
 ### Onenote
 ### Joplin
+### Paper 
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
 ### What to Work on 
