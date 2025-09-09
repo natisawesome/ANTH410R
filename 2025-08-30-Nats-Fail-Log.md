@@ -1,6 +1,6 @@
 # Week 4 fail log
 ## Summary of my experience
-## Struglles and Successes
+## Struggles and Successes
 ### Onenote
 ### Joplin
 ### Readings and Discussion
