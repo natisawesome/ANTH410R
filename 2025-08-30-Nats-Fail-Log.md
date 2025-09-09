@@ -3,6 +3,8 @@
 ## Struggles and Successes
 ### Onenote
 ### Joplin
+<img width="868" height="754" alt="image" src="https://github.com/user-attachments/assets/111bfaaf-1d81-4924-b9f4-5328c984c081" />
+
 ### Paper 
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
