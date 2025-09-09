@@ -2,6 +2,7 @@
 ## Summary of my experience
 ## Struggles and Successes
 ### Onenote
+***
 ### Joplin
 ### Paper 
 ### Readings and Discussion
