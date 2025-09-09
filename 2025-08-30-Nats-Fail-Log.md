@@ -11,6 +11,8 @@ One of my favorite features is the side-by-side view of your markdown and the re
 
 Overall, I really like this interface and how it works. It's similar to OneNote or Word documents, which I typically use for most of my classes. I like the idea of notebooks and pages, but Joplin offers the same concept with markdown support.
 
+Also, I was struggling to get my GitHub to format seperate paragraphs or sentences properly without use of a bullet point, and if I copy paste from Joplin it formats exactly the same as on Joplin. From now on that is how I will be doing my notes.
+
 <img width="868" height="754" alt="image" src="https://github.com/user-attachments/assets/111bfaaf-1d81-4924-b9f4-5328c984c081" />
 
 ### Paper 
