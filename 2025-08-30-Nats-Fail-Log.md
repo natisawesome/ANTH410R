@@ -3,6 +3,14 @@
 ## Struggles and Successes
 ### Onenote
 ### Joplin
+I wanted to try out a new type of note-taking that is more accessible and translatable to GitHub, so I looked into note-taking apps that work with markdown. I discovered an app called Joplin.
+
+I actually really like Joplin because it offers a user-friendly way to format your notes without needing to memorize markdown characters for specific tasks. It has buttons for bold, italics, and other formatting options, making it simple to use. Additionally, Joplin provides a comprehensive explanation of markdown and includes a welcome guide that walks you through it step by step. 
+
+One of my favorite features is the side-by-side view of your markdown and the rendered notes. This way, I can see what my notes will look like as I type, rather than committing changes and discovering later that I've made formatting mistakes. Once I'm done typing, there's an option in the upper right corner to view just the notes, which is fantastic. 
+
+Overall, I really like this interface and how it works. It's similar to OneNote or Word documents, which I typically use for most of my classes. I like the idea of notebooks and pages, but Joplin offers the same concept with markdown support.
+
 <img width="868" height="754" alt="image" src="https://github.com/user-attachments/assets/111bfaaf-1d81-4924-b9f4-5328c984c081" />
 
 ### Paper 
