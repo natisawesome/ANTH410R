@@ -2,6 +2,11 @@
 ## Summary of my experience
 ## Struggles and Successes
 ### Onenote
+I currently use OneNote and link it to Word documents as needed, but it's not my absolute favorite way to take notes. I prefer handwriting my notes because I learn better that way. However, OneNote is certainly useful. It allows you to link notebooks to Word documents, and I appreciate that it lets you create a notebook with multiple pages. I like to dedicate one page a week for my notes. 
+
+OneNote has many features and provides a lot of space on each page, so you can write as much as you need without any issues. I'm also partial to OneNote because if you use the Control + F function in a notebook, it will search through all the pages, making it easier to find something specific without having to sift through each page manually.
+
+Overall, I really like OneNote. The only negative aspect I would mention is the image formatting. I often struggle with inserting images, as it sometimes creates an extra box or fails to create one when needed, which can make things messy. However, this may be more about my own lack of technological know how, rather than OneNote itself.
 ### Joplin
 I wanted to try out a new type of note-taking that is more accessible and translatable to GitHub, so I looked into note-taking apps that work with markdown. I discovered an app called Joplin.
 
