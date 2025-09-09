@@ -2,6 +2,7 @@
 ## Summary of my experience
 ## Struglles and Successes
 ### Onenote
+### Joplin
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
 ### What to Work on 
