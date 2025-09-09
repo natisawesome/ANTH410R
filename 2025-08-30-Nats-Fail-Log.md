@@ -16,6 +16,10 @@
 - "Please correct me if I am wrong but when research involves participant observation, it's important to acknowledge that you may form attachments and develop feelings about certain aspects of the experience. I believe that instead of ignoring these emotions or pretending they don't exist, it may be important to document them in your field notes to avoid bias"
 - I love this idea that fieldnotes are the process of becoming."
 ### Annotations of ethnoGRAPHIC Fieldnotes
+- In reply to this quote " Not just for their own sake,but also because of the ideal that anthropologists should be reflective andopen about their role and positioning in relation to the knowledge they gain" I said "Exactly!"
+- "While I was writing my ethnography, I did quite a bit of drawing, but I never considered using it to capture small, intimate moments. I usually focused on broader scenes to show the atmosphere or feeling of a place. However, I totally agree with the author’s point, they are spot on, that drawings can effectively emphasize these small, intimate moments. This approach could show the context of a situation much better than words alone, especially for details that might otherwise be overlooked."
+- "When I was doing my ethnography I found that taking photos was a really helpful tool. Being able to look back at the photos and put them into words or drawings gave my writing a much more in-depth feeling to it."
+- In reply to this quote, "Sometimes I used photographs or just my memory" I said "Yes!!!"
 # Week 3 fail log
 ## Summary of my experience
 This week we are focusing on citation management software
