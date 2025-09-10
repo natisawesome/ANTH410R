@@ -10,6 +10,8 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 - [Google Scholar](https://www.youtube.com/watch?v=FrzmPkOMHh4&embeds_referring_euri=https%3A%2F%2Fmycourses.siu.edu%2F&source_ve_path=Mjg2NjY)
 ### Week 3
 - [Seminar on Magic & Technology](https://www.youtube.com/watch?v=5aKZwKFFDYw&feature=youtube_gdata_player)
+### Week 4
+- [Joplin Markdown Guide](https://joplinapp.org/help/apps/markdown/)
 ## Learning Goals
 # Week 3
 - This week I explored citation management software. I found the content for this week really overwhelming for some reason, and it took me a bit of time to start it. Once I did I realized I was going to have to make some changes to how I am going about this class and my learning style. I took notes on paper and online to figure out what the best way to take notes in this class was. I quickly found out that to synthesize the video and readings, which I really enjoyed but were rather long, I was going to have to start writing down my thoughts in an easy way. I think from now on I am going to have a running word document going, as I found that was the most helpful way to do things this week. Although, I normally prefer paper it was just easy to have online notes. Being able to draw from my notes on a specific topic directly to writing an annotation or discussion post was easier for me than going tab to tab. The jumping between tabs for me was really rough this week and it was just easier for me to copy paste the question into my word document and than write my response there where I have easy access to my notes and comments.
