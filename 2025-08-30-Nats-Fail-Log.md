@@ -28,6 +28,11 @@ Sidenote: In the welcome guide Joplin provides they shout out GitHub.
 
 
 ### Paper 
+ want to give a shout-out to this style of note-taking that I really love. However, there are a few downsides. Unfortunately, when a professor is going quickly, it’s much easier for me to type than to write, so I can keep up. As I mentioned in my discussion post for this week, I’m left-handed, so my notes tend to smudge A LOT. This is often challenging to address; sometimes I find pens that work for a while, but later they won't (if I order new ones or replace the ink). I’ve also realized that when I use pencils, the words can smudge so badly that I can't read them.
+
+Although I prefer writing notes because I learn better that way, I often resort to digital platforms for note-taking. I only write on paper when I need to remember something specific or need to resolve a tab issue on my computer. I don’t really like to split-screen, so if I have to switch back and forth between readings and assignments to find quotes (since many of my other classes just scan in pages and we can’t copy and paste), I either write down the quotes or take a picture on my phone and then retype them.
+
+I think that conversation could lead to a different discussion about open access and accessibility. It often feels like it just creates busywork for students. Anyway, I love taking notes on paper, but in this digital age, it’s just not practical to rely on that alone.
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
 ### What to Work on 
