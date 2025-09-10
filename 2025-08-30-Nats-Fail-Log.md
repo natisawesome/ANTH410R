@@ -20,7 +20,10 @@ Also, I was struggling to get my GitHub to format seperate paragraphs or sentenc
 
 <img width="868" height="754" alt="image" src="https://github.com/user-attachments/assets/111bfaaf-1d81-4924-b9f4-5328c984c081" />
 
+
 Sidenote: In the welcome guide Joplin provides they shout out GitHub.
+
+
 <img width="282" height="204" alt="image" src="https://github.com/user-attachments/assets/e43d4946-a2ec-482f-83d1-f612984e0fce" />
 
 
