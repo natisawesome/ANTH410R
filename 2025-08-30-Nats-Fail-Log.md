@@ -1,5 +1,9 @@
 # Week 4 fail log
 ## Summary of my experience
+This week we are focusing on note-taking tools.
+- Joplin
+- OneNote
+- Paper
 ## Struggles and Successes
 ### Onenote
 I currently use OneNote and link it to Word documents as needed, but it's not my absolute favorite way to take notes. I prefer handwriting my notes because I learn better that way. However, OneNote is certainly useful. It allows you to link notebooks to Word documents, and I appreciate that it lets you create a notebook with multiple pages. I like to dedicate one page a week per class for my notes. 
