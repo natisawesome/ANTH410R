@@ -1,6 +1,6 @@
 ## Table of Contents
 [^1] 
-
+[^2]
 
 
 # Week 4 fail log
@@ -109,6 +109,7 @@ If you want to know more about the lightbulb situation The Uneasy Case of Progra
 
 
 # Week 2 fail log
+[^2]:
 ## Summary of my experience
 This week we are focusing on library research and literature reviewing utilizing three things:
 - Research Rabbit
