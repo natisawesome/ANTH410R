@@ -2,7 +2,7 @@
 ## Summary of my experience
 ## Struggles and Successes
 ### Onenote
-I currently use OneNote and link it to Word documents as needed, but it's not my absolute favorite way to take notes. I prefer handwriting my notes because I learn better that way. However, OneNote is certainly useful. It allows you to link notebooks to Word documents, and I appreciate that it lets you create a notebook with multiple pages. I like to dedicate one page a week for my notes. 
+I currently use OneNote and link it to Word documents as needed, but it's not my absolute favorite way to take notes. I prefer handwriting my notes because I learn better that way. However, OneNote is certainly useful. It allows you to link notebooks to Word documents, and I appreciate that it lets you create a notebook with multiple pages. I like to dedicate one page a week per class for my notes. 
 
 OneNote has many features and provides a lot of space on each page, so you can write as much as you need without any issues. I'm also partial to OneNote because if you use the Control + F function in a notebook, it will search through all the pages, making it easier to find something specific without having to sift through each page manually.
 
