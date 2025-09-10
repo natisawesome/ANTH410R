@@ -39,13 +39,11 @@ Although I prefer writing notes because I learn better that way, I often resort 
 I think that conversation could lead to a different discussion about open access and accessibility. It often feels like it just creates busywork for students. Anyway, I love taking notes on paper, but in this digital age, it’s just not practical to rely on that alone.
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
-The most important things I want to work on are figure out how to use the footnote concept on GitHub to create a table of contents. I feel it in my soul that it is possible to create table on contents with that. The other most important thing I want to work on is to figure out how to find my comments specifically on Persuall (I think I just need to star my comments so I can find all of them fast. Oh also one last thing, I really want to figure out how to seperate my paragraphs on GitHub without using hashtags or bullet points.
-
-Hopefully my technology decides to work next week
-Use Zotero more often
-Continue becoming more literate using these tools
-Continue to brainstorm ways to incorporate these tools into research.
+I looked into the idea I had about footnotes as a table of contents and unfortunatly that does not really work. But in my exploration I found some recommendations to use a type of markdown that is links and that'll help. So I messed around with that a little and I think that I just like to scroll if I need anything fromany specific week. I still have not figured out the Perusall comment situation yet... but I was able to figure out how to space out my paragraphs using GitHub. Especially if I transfer my notes and writings from joplin to GitHub I am able to do it easily.
 ### What to Work on 
+- Continue becoming more literate using tools
+- Find ways to incorporate these tools into my research
+- Keep using Joplin.
 ## Readings for the Week
 - The "Proto-Language" of Anthropological Practice
 - ethnoGRAPHIC fieldnotes
