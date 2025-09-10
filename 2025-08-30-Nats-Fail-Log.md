@@ -12,11 +12,11 @@ I wanted to try out a new type of note-taking that is more accessible and transl
 
 I actually really like Joplin because it offers a user-friendly way to format your notes without needing to memorize markdown characters for specific tasks. It has buttons for bold, italics, and other formatting options, making it simple to use. Additionally, Joplin provides a comprehensive explanation of markdown and includes a welcome guide that walks you through it step by step. 
 
-One of my favorite features is the side-by-side view of your markdown and the rendered notes. This way, I can see what my notes will look like as I type, rather than committing changes and discovering later that I've made formatting mistakes. Once I'm done typing, there's an option in the upper right corner to view just the notes, which is fantastic. 
+One of my favorite features is the side-by-side view of your markdown and regular notes. This way, I can see what my notes will look like as I type, rather than committing changes and discovering later that I've made formatting mistakes. Once I'm done typing, there's an option in the upper right corner to view just the notes, which is fantastic. 
 
 Overall, I really like this interface and how it works. It's similar to OneNote or Word documents, which I typically use for most of my classes. I like the idea of notebooks and pages, but Joplin offers the same concept with markdown support.
 
-Also, I was struggling to get my GitHub to format seperate paragraphs or sentences properly without use of a bullet point, and if I copy paste from Joplin it formats exactly the same as on Joplin. From now on that is how I will be doing my notes.
+Also, I was struggling to get my GitHub to format seperate paragraphs or sentences properly without use of a bullet point, if I copy paste from Joplin it formats exactly the same as on Joplin. From now on that is how I will be doing my notes.
 
 <img width="868" height="754" alt="image" src="https://github.com/user-attachments/assets/111bfaaf-1d81-4924-b9f4-5328c984c081" />
 
