@@ -39,6 +39,12 @@ Although I prefer writing notes because I learn better that way, I often resort 
 I think that conversation could lead to a different discussion about open access and accessibility. It often feels like it just creates busywork for students. Anyway, I love taking notes on paper, but in this digital age, it’s just not practical to rely on that alone.
 ### Readings and Discussion
 ## Progress on my Struggles from Last Week
+The most important things I want to work on are figure out how to use the footnote concept on GitHub to create a table of contents. I feel it in my soul that it is possible to create table on contents with that. The other most important thing I want to work on is to figure out how to find my comments specifically on Persuall (I think I just need to star my comments so I can find all of them fast. Oh also one last thing, I really want to figure out how to seperate my paragraphs on GitHub without using hashtags or bullet points.
+
+Hopefully my technology decides to work next week
+Use Zotero more often
+Continue becoming more literate using these tools
+Continue to brainstorm ways to incorporate these tools into research.
 ### What to Work on 
 ## Readings for the Week
 - The "Proto-Language" of Anthropological Practice
