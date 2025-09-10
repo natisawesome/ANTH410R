@@ -8,7 +8,7 @@ OneNote has many features and provides a lot of space on each page, so you can w
 
 Overall, I really like OneNote. The only negative aspect I would mention is the image formatting. I often struggle with inserting images, as it sometimes creates an extra box or fails to create one when needed, which can make things messy. However, this may be more about my own lack of technological know how, rather than OneNote itself.
 ### Joplin
-I wanted to try out a new type of note-taking that is more accessible and translatable to GitHub, so I looked into note-taking apps that work with markdown. I discovered an app called Joplin.
+I wanted to try out a new type of note-taking that is more accessible and translatable to GitHub, so I looked into note-taking apps that work with markdowns. I discovered an app called Joplin.
 
 I actually really like Joplin because it offers a user-friendly way to format your notes without needing to memorize markdown characters for specific tasks. It has buttons for bold, italics, and other formatting options, making it simple to use. Additionally, Joplin provides a comprehensive explanation of markdown and includes a welcome guide that walks you through it step by step. 
 
