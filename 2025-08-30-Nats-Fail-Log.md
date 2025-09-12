@@ -30,6 +30,9 @@ Sidenote: In the welcome guide Joplin provides they shout out GitHub.
 
 <img width="282" height="204" alt="image" src="https://github.com/user-attachments/assets/e43d4946-a2ec-482f-83d1-f612984e0fce" />
 
+---
+
+Joplin Update: I started this form of note taking at the beginning of the week on Sunday. It is now Friday. I think that I really like Joplin. You honestly do not even have to type the markdowns in. You can just type your regular notes and use the heading, bold, italic, etc. buttons and it will markdown and format everything automatically. It is also formatted like OneNote with the notebooks and pages so it is super easy to stay organized. I would definitly recommend this to anyone who wants more universally accesable notes or notes that use markdowns in general.
 
 ### Paper 
  want to give a shout-out to this style of note-taking that I really love. However, there are a few downsides. Unfortunately, when a professor is going quickly, it’s much easier for me to type than to write, so I can keep up. As I mentioned in my discussion post for this week, I’m left-handed, so my notes tend to smudge A LOT. This is often challenging to address; sometimes I find pens that work for a while, but later they won't (if I order new ones or replace the ink). I’ve also realized that when I use pencils, the words can smudge so badly that I can't read them.
