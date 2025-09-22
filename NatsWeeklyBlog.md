@@ -35,6 +35,7 @@ Creating an accessible, open, and safe space may seem like an impossible task, b
 
 Sidenote: I have not looked into this it is just something I think about. I feel like the terms "disabled" and "differently abled" serve as a way for people who are fully abled to distance themselves from those who have disabilities. However, I believe this should not be the case. According to one of the readings, 1 in 6 Americans has some form of disability. That includes our friends, mothers, cousins, sisters, brothers, fathers, aunts, uncles, and grandparents. Disability should not be something that others are distanced from; after all, how can you distance yourself from your friends and family? I wish there were a different term to describe this experience because I do not see myself as disabled. I simply require different accommodations to level the playing field. For instance, when I get a migraine and I am unable to get out of bed or even look at light for a week, it is not due to lack of effort or motivation. I physically cannot do it. When I receive an extension on a paper or an assignment, it's not about giving me extra time; it’s about allowing me the same amount of time my classmates had to complete the work. This is a part of who I am and my life. It will not hold me back as long as I have the accessibility and accommodations that create an equal environment. I am grateful to my university for their support; they are truly the best.
 
+Meaning of accessability is equality and equal environments for all.
 
 
 # Week 4
