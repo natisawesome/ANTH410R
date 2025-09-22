@@ -1,16 +1,49 @@
 # Week 5 fail log
 ## Summary of my Experience
+This week we are focusing on accesability. Specifically:
+- Links
+- Color and Contrast
+- Formatting
+- Captions and Transcrips
+- Alt-Text
 ## Struggles and Successes
 ### Links
-### Color Contrast
+I found this part for this week super easy. I was able to talk about The Bioarcheology of Care. That is one of my favorite topics in anthropology. I will say for some reason embedding the links on D2L took a couple tries. I had to edit my post to fix them, but in the end I got it. 
+
+
+### Color and Contrast
+I really liked this activity as well. It took a while for me to find a color combination that actually passed the AA standards, but once I did it passed both AA and AAA. I learned a lot in this section. I feel like I do not normally thing about if a power point or presentation has unaccesable colors. This is because I usually use a black and white color scheme. This has definitly put things into perspective for me and I will be checking my presentations now with. 
+
+[Web Accessibility Checker](https://accessibleweb.com/color-contrast-checker/)
+
+
 ### Formatting
-### Captions Transcrips
+I liked this section as well. This is definitly one thing I already do. I really like to have accessable table of contents just for myself on my writing platforms such as word. Having a table of contents makes my life so much easier especially when doing research.
+
+
+### Captions and Transcrips
+This was one of my least favorite sections. This is only due to the fact that I am not technologically savvy. I really struggled to figure this out. I was using Cap Cut which is basically video editing in the frame of programs such as tik tok, musically, and vine. So I was definitly familiar with it. Getting the video from Cap Cut to D2L was a struggle for me. My D2L on my laptop will not accept anything from my non school outlook account, which is all I have on my laptop. I normally turn things in one my phone from my school account. But that it just a personal issue and I was able to figure out how to get it on D2L properly, by using a work around with Microsofts video editor and saving that on my school account there. 
+
+
 ### Alt-Text
+This was my absolute least favorite one. Not for lack of ease, but I could not think of an artifact for the life of me so it took the longest. I finally came up with something that related to one of my previous classes and had to reeducate myself on it. Luckily I take digital notes on One Note and was able to go back and find information like the date. Honestly, it was a trip down memory lane, despite my lack of brain storming it was nice to review these things. I also really like using Alt-Text on presentations and posters. I definitly learned a lot more about Alt-Text than what I knew and I will happily apply that information in the future. (Knowing when to mark something as decorative vs knowing when to apply alt-text.)
+
+
 ## Discussion
 ### Progress on my Struggles from Last Week
+Nothing new to report. I have been thinking about using Zotero and Research Rabbit to do my research. I have not started yet so I have no update on that. Once I do start I will report back. I feel really comfortable using Perusall. I have started to star conversations that I am apart of just so its easier for me to jump back and forth between my conversations.
 ### What to Work on for Next Week
+- Keep practicing new skills
+- Make my work accessible
 ## Readings 
-### Annotations of 
+- What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
+- Disruption at the Center: Disability Anthropology and Black Feminist Research-Creation
+### Annotations of What I Wish I Knew about Anthropology andDisability: Notes toward a more enablinganthropology
+- I agree that there is a lot to learn from different societies on this topic. Disabilities are a part of everyday life for many people. According to the statistics on page 10, "37% of academics have a mental health disorder, 20% of Americans are disabled, 1 in 6 Americans take psychiatric medications, and nearly 70% of Americans take some form of prescription drug." The issues and experiences we are discussing are far from uncommon. Given that 1 in 6 Americans face these challenges, I find it hard to understand why accessibility isn't considered the norm.
+- Honestly, this does not "flirt with the unethical" it is unethical. As someone with an unseen disability this is so sad to see. That rather than addressing the issue the first thing that was done was blaming the person for a disability they have no control over.
+### Annotations of Disruption at the Center: Disability Anthropology and Black Feminist Research-Creation
+- Yes!! That is what I thought of as well.
+- I totally agree with this. The "border-policing practices" are something that have been an issue in anthropology. That acknowledging anthropologists should not be bound to one "object" or "method" is important in accessibility within the field
 
 # Week 4 fail log
 ## Summary of my experience
