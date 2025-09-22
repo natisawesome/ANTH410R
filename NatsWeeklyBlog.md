@@ -28,7 +28,7 @@ I’d like to speak on a point made by one of my classmates during the reading d
 
 3. Given that so many individuals experience disabilities, they are in the best position to determine what solutions will work for them. One of the readings mentioned how those with disabilities often have extensive lists of what works and what doesn’t. This is completely accurate; all it takes is asking rather than assuming.
 
-Creating an accessible, open, and safe space may seem like an impossible task, but I do not believe that it is. One reason my discussion post focused on "The Bioarchaeology of Care" is that I thought it effectively addressed issues of disability and accessibility. If we find evidence that humans have cared for those with disabilities, illnesses, injuries, and old age for centuries, why can’t we do the same today? What is so difficult about providing and creating access for other human beings?
+Creating an accessible, open, and safe space may seem like an impossible task, but I do not believe that it is. One reason my discussion post focused on "The Bioarchaeology of Care" is that I thought it effectively addressed issues of disability and accessibility. Additionally, there have been ethnographic studies of indiginous cultures that gave disabiled individuals specific social or spiritual roles. This shows that disability and accessability are not something new, but have been around for centuries. If we find evidence that humans have cared for those with disabilities, illnesses, injuries, and old age for centuries, why can’t we do the same today? What is so difficult about providing and creating access for other human beings?
 
 
 # Week 4
