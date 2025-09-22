@@ -35,6 +35,8 @@ Nothing new to report. I have been thinking about using Zotero and Research Rabb
 ### What to Work on for Next Week
 - Keep practicing new skills
 - Make my work accessible
+
+For some reason, I did not see the What is Accessability to you discussion section so I did not do it one time. I did it Monday when I noticed. So next week I want to make sure I do not miss anything and triple check all the disucssion boards, before I think my work is complete. 
 ## Readings 
 - What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
 - Disruption at the Center: Disability Anthropology and Black Feminist Research-Creation
