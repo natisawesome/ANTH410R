@@ -12,7 +12,25 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 - [Seminar on Magic & Technology](https://www.youtube.com/watch?v=5aKZwKFFDYw&feature=youtube_gdata_player)
 ### Week 4
 - [Joplin Markdown Guide](https://joplinapp.org/help/apps/markdown/)
+### Week 5
+- [Color and Contrast Web Accessibility Checker](https://accessibleweb.com/color-contrast-checker/)
 ## Learning Goals
+# Week 5
+This week, we examined online accessibility, focusing on aspects such as color and contrast, alt text, links, formatting, captions, and transcripts. I really enjoyed learning about these topics. In my blog post this week, I want to discuss the readings and the overall theme of accessibility and disability in anthropology.
+
+For some context on why this is important to me: I have epilepsy and chronic migraines, which I have been dealing with along with medically diagnosed depression, anxiety, and ADHD since I was around eight years old. Although I may appear perfectly able-bodied, I am not. This topic is very important to me because I had to fight for accessibility throughout my childhood. I attended a religious private school that was not accommodating at all.
+
+I’d like to speak on a point made by one of my classmates during the reading discussion. They mentioned that studying disability can help us understand it, which I completely agree with; however, I do have some concerns:
+
+1. Anthropology as a field has been absolutely obsessed with studying things that are different and exotic. I hope that when anthropology addresses disabilities, it does so without the lens of othering.
+
+2. Many people have both visible and invisible disabilities, and I believe this issue should have been addressed and acted upon long ago. Of course, I recognize that our current political climate makes such progress challenging.
+
+3. Given that so many individuals experience disabilities, they are in the best position to determine what solutions will work for them. One of the readings mentioned how those with disabilities often have extensive lists of what works and what doesn’t. This is completely accurate; all it takes is asking rather than assuming.
+
+Creating an accessible, open, and safe space may seem like an impossible task, but I do not believe that it is. One reason my discussion post focused on "The Bioarchaeology of Care" is that I thought it effectively addressed issues of disability and accessibility. If we find evidence that humans have cared for those with disabilities, illnesses, injuries, and old age for centuries, why can’t we do the same today? What is so difficult about providing and creating access for other human beings?
+
+
 # Week 4
 Throughout this week, I have been using Joplin as a method of note-taking specifically for this class. I find it easier to translate my notes from Joplin to GitHub. I tried using Joplin for some of my other classes and even for personal tasks, like my grocery list, but I found it was just easier to do those things in OneNote. I really enjoy using both OneNote and Joplin, but for the concept of markdowns and accessibility across platforms, I prefer Joplin for this class where I am using GitHub. It creates a nice connection between my notes, my blog, and my fail log.
 
