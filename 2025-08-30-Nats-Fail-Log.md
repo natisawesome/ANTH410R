@@ -1,3 +1,17 @@
+# Week 5 fail log
+## Summary of my Experience
+## Struggles and Successes
+### Links
+### Color Contrast
+### Formatting
+### Captions Transcrips
+### Alt-Text
+## Discussion
+### Progress on my Struggles from Last Week
+### What to Work on for Next Week
+## Readings 
+### Annotations of 
+
 # Week 4 fail log
 ## Summary of my experience
 This week we are focusing on note-taking tools.
