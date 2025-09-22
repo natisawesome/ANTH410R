@@ -16,6 +16,7 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 - [Color and Contrast Web Accessibility Checker](https://accessibleweb.com/color-contrast-checker/)
 ## Learning Goals
 # Week 5
+- When I refer to a reading I am refering to What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
 This week, we examined online accessibility, focusing on aspects such as color and contrast, alt text, links, formatting, captions, and transcripts. I really enjoyed learning about these topics. In my blog post this week, I want to discuss the readings and the overall theme of accessibility and disability in anthropology.
 
 For some context on why this is important to me: I have epilepsy and chronic migraines, which I have been dealing with along with medically diagnosed depression, anxiety, and ADHD since I was around eight years old. Although I may appear perfectly able-bodied, I am not. This topic is very important to me because I had to fight for accessibility throughout my childhood. I attended a religious private school that was not accommodating at all. I did not really want to go into detail with my disabilities on the reading annotations. I feel way better about it on this blog post.
