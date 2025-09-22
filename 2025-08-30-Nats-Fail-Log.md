@@ -12,7 +12,7 @@ I found this part for this week super easy. I was able to talk about The Bioarch
 
 
 ### Color and Contrast
-I really liked this activity as well. It took a while for me to find a color combination that actually passed the AA standards, but once I did it passed both AA and AAA. I learned a lot in this section. I feel like I do not normally thing about if a power point or presentation has unaccesable colors. This is because I usually use a black and white color scheme. This has definitly put things into perspective for me and I will be checking my presentations now with. 
+I really liked this activity as well. It took a while for me to find a color combination that actually passed the AA standards, but once I did it passed both AA and AAA. I learned a lot in this section. I feel like I do not normally thing about if a power point or presentation has unaccesable colors. This is because I usually use a black and white color scheme. This has definitely put things into perspective for me and I will be checking my presentations now with. 
 
 [Web Accessibility Checker](https://accessibleweb.com/color-contrast-checker/)
 
@@ -26,7 +26,7 @@ This was one of my least favorite sections. This is only due to the fact that I 
 
 
 ### Alt-Text
-This was my absolute least favorite one. Not for lack of ease, but I could not think of an artifact for the life of me so it took the longest. I finally came up with something that related to one of my previous classes and had to reeducate myself on it. Luckily I take digital notes on One Note and was able to go back and find information like the date. Honestly, it was a trip down memory lane, despite my lack of brain storming it was nice to review these things. I also really like using Alt-Text on presentations and posters. I definitly learned a lot more about Alt-Text than what I knew and I will happily apply that information in the future. (Knowing when to mark something as decorative vs knowing when to apply alt-text.)
+This was my absolute least favorite one. Not for lack of ease, but I could not think of an artifact for the life of me so it took the longest. I finally came up with something that related to one of my previous classes and had to reeducate myself on it. Luckily I take digital notes on One Note and was able to go back and find information like the date. Honestly, it was a trip down memory lane, despite my lack of brain storming it was nice to review these things. I also really like using Alt-Text on presentations and posters. I definitely learned a lot more about Alt-Text than what I knew and I will happily apply that information in the future. (Knowing when to mark something as decorative vs knowing when to apply alt-text.)
 
 
 ## Discussion
