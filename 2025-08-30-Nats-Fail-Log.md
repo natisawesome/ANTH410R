@@ -38,7 +38,7 @@ Nothing new to report. I have been thinking about using Zotero and Research Rabb
 ## Readings 
 - What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
 - Disruption at the Center: Disability Anthropology and Black Feminist Research-Creation
-### Annotations of What I Wish I Knew about Anthropology andDisability: Notes toward a more enablinganthropology
+### Annotations of What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
 - I agree that there is a lot to learn from different societies on this topic. Disabilities are a part of everyday life for many people. According to the statistics on page 10, "37% of academics have a mental health disorder, 20% of Americans are disabled, 1 in 6 Americans take psychiatric medications, and nearly 70% of Americans take some form of prescription drug." The issues and experiences we are discussing are far from uncommon. Given that 1 in 6 Americans face these challenges, I find it hard to understand why accessibility isn't considered the norm.
 - Honestly, this does not "flirt with the unethical" it is unethical. As someone with an unseen disability this is so sad to see. That rather than addressing the issue the first thing that was done was blaming the person for a disability they have no control over.
 ### Annotations of Disruption at the Center: Disability Anthropology and Black Feminist Research-Creation
