@@ -8,7 +8,12 @@ This week we are focusing on Data Managment. Specifically:
 ## Data Management Plans
 Data Management plans are comprised of information such as data collection, documentation and metadata, ethics and legal compliance, storage and backup, selection and preservation, data sharing, responsibilities and resources, and outcome. This essentially puts the plan for your research in one place creating a guide you can refer to during the data collection and research process. I really liked this activity, although I will say it took a lot of time. I used my current research as the example. Although, I will say that I found myself repeating myself a lot in the DMP. The questions felt very repetative especially for someone with a research project that is not as indepth as practiced researchers. 
 
-file:///C:/Users/natal/Downloads/TEST_DMP_ANTH410R_-_Based_on_Natalie_Eves_current_Research%20(2).pdf 
+<img width="545" height="632" alt="image" src="https://github.com/user-attachments/assets/831efd42-7b4b-43bd-9bb7-afb96d6a0363" />
+<img width="508" height="676" alt="image" src="https://github.com/user-attachments/assets/02011ca0-17f1-4fb7-9a10-831a39b350dc" />
+<img width="523" height="641" alt="image" src="https://github.com/user-attachments/assets/cc157fce-1865-4a25-9714-43db5fa7e47e" />
+
+
+ 
 
 
 ## Organization
