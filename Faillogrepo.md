@@ -1,4 +1,4 @@
-### Week 6 fail log
+# Week 6 fail log
 ## Summary of my Experience
 This week we are focusing on Data Managment. Specifically:
 - Data Management Plans (DMP)
@@ -28,21 +28,21 @@ Recently, I have started to keep metadata. I am working on a grant that is ArcGI
 ## What to Work on for Next Week
 Next week I want to continue working through all of my files and put them in appropriate folders. I also want to keep working with GitHub on making my faillog and blog more cohesive.
 
-### Readings
+# Readings
 
 ## Introduction: Towards ananthropology of data
-# comments
+### comments
 - I really like this phrase, "data's ubiquity and polysemy," because it shows how data is used in almost everything but in different ways.
 - I really like this idea as well. I think it makes a lot of sense to further understand those providing data.
 - I agree with you. I think overdetermine if the wrong word. If anything it should be underdetermine. Solely because of what it could be
 
 ##  The datafication of nature: dataformations and new scales innatural history
-# comments
+### comments
 - I really like the picture this paints us. It reminds me a lot of curatorial work in anthropology. Being stuck between past (what the artifacts are currently), present (what the artifacts are becoming), and future (what the artifacts will be). As artifacts are digitized, they exist in a state of transition, suspended in a "multidimensional modernizing process". Curators and technology together transform them into something new, making them accessible to anyone interested and elevating their visibility in ways we haven't seen before.
 
 
 ## Exercise: Reusing qualitative data: the value of context
-# comments
+### comments
 - How does perception of health, familial relations and cultural norms, impact eating healthy.
 - Information such as age, location, time, and status of the individuals would all help better understand the extracts.
 - Age, location, time period, and the status of the individuals are important factors that provide essential context. Understanding these elements, such as whether individuals are older or younger, the era they belong to, their status, and their geographic location will greatly enhance the ability to interpret their responses and the questions they are asked. Without this context, meaningful interpretation is difficult, and the information cannot be effectively used in research.
