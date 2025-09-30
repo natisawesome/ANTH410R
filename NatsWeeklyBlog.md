@@ -17,6 +17,9 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ### Week 6
 - [DMP Website](https://dmptool.org/plans/143679/download)
 ## Learning Goals
+# Week 6
+- This week's topic on data management made me reflect on my previous work, particularly how accessible it is to both others and myself, as well as how well it is organized. I have taken the time to consider my actions and plans in this area. As a new researcher, I realize that I need to change the way I approach this now. I need to focus on organizing my research and making it accessible, and I understand that developing good habits is crucial. I need to start creating files and sticking to them, which I have not done in the past. Everything needs metadata, and I am committed to starting that process now. I recognize that this is something I have yet to address in my research. Initially, I thought of it as a struggle, but that would imply I had actually looked into it and devoted time to it, which I haven't. That is going to change after this week. This experience has really put into perspective how much I need to catch up on for myself and for any future research. I am currently involved in grant work and have a research project this year, both of which I intend to manage and be organized as possible, starting with creating files and collecting metadata. Honestly, I feel disappointed in myself for not having started this process sooner, but I am excited to begin. This was the reality check I needed to take that first step.
+- My takeaway for the week is that I didn’t realize how closely data management and accessibility are connected. After completing the activities and readings, I learned that poor data management leads to poor accessibility. This was particularly evident in the exercise we did in Perusall.
 # Week 5
 - When I refer to a reading I am refering to What I Wish I Knew about Anthropology and Disability: Notes toward a more enabling anthropology
 
