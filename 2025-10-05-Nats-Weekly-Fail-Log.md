@@ -11,12 +11,12 @@ I found this as a really good way to store data. It is just simple coding once a
 
 # Readings
 
-## reading title
+## Guidelines for anthropological research: Data management, ethics, and integrity
 ### comments
 - I disagree with that. It generally requires considerable effort to find out who is being discussed unless additional identifying information is included in the research. It is not a "workable solution" because of how many details get omitted to protect the identity of the individual.
 - I agree. I'm not entirely sure how I feel about written consent. From the perspective of anonymity, I would prefer to take oral consent; however, if someone does not want to remain anonymous, I would want written consent at the beginning and end of the research. Only if this would not put the individual at risk in anyway. 
 Before I publish, I would ensure that I obtain another written consent form to confirm that the individual still does not want to be anonymous. Perhaps we could implement a multi-step confirmation process to maintain the trust of individuals involved. This process should be included in the consent forms so that individuals know they have the option to revoke consent at any time, therefore reverting back to anonymity. The default option should be anonymity, and if someone prefers not to be anonymous, that is where written consent would be necessary for their safety and the safety of the researchers.
-##  reading title
+##  Data management in anthropology: the next phase in ethics governance?
 ### comments
 - Yes!!! Without this understanding there is a clear disconnect between the researcher and the researched. To not understand this is to not understand your duty as an anthropologist. 
 - I feel like this is a very important concept that some people forget about. Although they may be the researcher the data should be "owned" by the individuals the research was done on. The research is simply the pen putting it to paper not the person who created the data.
