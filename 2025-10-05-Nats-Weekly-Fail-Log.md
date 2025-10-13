@@ -1,25 +1,21 @@
 # Week 7 fail log
 ## Summary of my Experience
-This week we are focusing on Data Cleaning. 
+Introduction to R
 
-### Data Dictionary
-This activity confused me. I understand the importance of having a data dictionary it was just hard for me to create one without real data/examples. I am such a visual learner that to create my own I would need my own data to input. The example provided really helped. I had never heard of variable coding values/flags in regards to anthropological data before. Additionally, I have used data dictionaries before. I learned about them this summer during the fieldschool. I was able to assist in inputting artifact information into the data dictionary, as well as assist in other research. I forgot what it is called but theres a way to link multiple excell sheets into one big sheet that updates every time you update the individual sheets which are linked to it. In the future, I hope to learn more about data dictionaries and create my own. 
-### Open Refine
-I found this as a really good way to store data. It is just simple coding once again. However, I would stick with excel over this. There are many steps and intricacies that you need to understand how to work this tool. I have been using excel since I was a kid and it is just familiar to me.
+### R
+Honestly, I really struggled with some of the challenges of this unit. I do not like R very much or I need much more practice using R. I think it is a really good data tool though and I can understand the importance of knowing it exists and using it in applicable research. I would be intrested in maybe watching some videos on R. 
+I wonder if there is a way to link R up in such a way that it would be similar to an excel workbook. Where you can have one master sheet and when you update that it updates all the little ones or vice versa. It would be intresting if you could just query that data from one location.
 ## What to Work on for Next Week
 - Solidify date to start final project
 
 # Readings
 
-## Guidelines for anthropological research: Data management, ethics, and integrity
+## Is This the End of Anthropology as We Know It? SomeImplication of FAIR Principles on Tales in Ethnological andAnthropological Qualitative Research
 ### comments
-- I disagree with that. It generally requires considerable effort to find out who is being discussed unless additional identifying information is included in the research. It is not a "workable solution" because of how many details get omitted to protect the identity of the individual.
-- I agree. I'm not entirely sure how I feel about written consent. From the perspective of anonymity, I would prefer to take oral consent; however, if someone does not want to remain anonymous, I would want written consent at the beginning and end of the research. Only if this would not put the individual at risk in anyway. 
-Before I publish, I would ensure that I obtain another written consent form to confirm that the individual still does not want to be anonymous. Perhaps we could implement a multi-step confirmation process to maintain the trust of individuals involved. This process should be included in the consent forms so that individuals know they have the option to revoke consent at any time, therefore reverting back to anonymity. The default option should be anonymity, and if someone prefers not to be anonymous, that is where written consent would be necessary for their safety and the safety of the researchers.
-##  Data management in anthropology: the next phase in ethics governance?
+- I really like this point. Finding and working with "interlocutors" is sort of an "initiation process" within the field. This process teaches people that the data and research is not just data and research; the data represents little parts of people lives and history. Without firsthand understanding of the process, it may be difficult to grasp the meaning of data and why open access with the permission of the interlocutor or confidentiality per the request of the interlocutor is vital.
+- Honestly, this has been something on my mind recently in terms of accessibility. This statistic shows that 90.9% of the anthropologists interviewed said they share research via "scientific papers, book chapters, or something similar". That is a HUGE amount. This does not seem accessible to the general public, just academic scholars. Many of the individuals who we get our research from are members of the general public rather than academic scholars. Are scientific fields taking steps to make their research and data more accessible and readable to the general public, without the academic jargon or the intimidation that comes with heavily academic articles and books? Would accessible data in general also be considering ways to make data more accessible not only for researchers but also for anyone interested and those who we work with to gain the data in the first place?
+##  Data sharing in biological anthropology: Guiding principlesand best practices
 ### comments
-- Yes!!! Without this understanding there is a clear disconnect between the researcher and the researched. To not understand this is to not understand your duty as an anthropologist. 
-- I feel like this is a very important concept that some people forget about. Although they may be the researcher the data should be "owned" by the individuals the research was done on. The research is simply the pen putting it to paper not the person who created the data.
-- This concept led me to a question regarding monetary gain in the context of co-owned data between the researcher and the researched. If an ethnography produced by the researcher becomes very popular and generates monetary profit, what happens then?
+- Yes! I think it is really important to remember this. Especially the next part of the quote that discusses a conversation about a consenting process.
 
 
