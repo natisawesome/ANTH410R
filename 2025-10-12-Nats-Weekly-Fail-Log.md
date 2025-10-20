@@ -23,5 +23,6 @@ I really liked using Audacity, and I think that next time, I will be more aware 
 ### comments
 - I am glad that this is being mentioned. I think with a lot of the topics discussed in the readings about sound medicine is overlooked. Sound and what we expose ourselves to can be healing, which just goes to show how important sound is to convey things
 -  I really like your take on this. These are such important questions to ask and consider for an accessible and equal field of anthropology
+-  I just want to say in general I love the concept of "hearing cultures." I feel like anthropology as a whole talks so much about observation but neglects hearing. Rather sight, taste, and smell are primary senses in many ethnographies. I wonder if there are readings on anthropological ethnography which emphasize the use of all the senses and teach students how to do so without favoring one? I would be interested to try out a method like that.
 
 
