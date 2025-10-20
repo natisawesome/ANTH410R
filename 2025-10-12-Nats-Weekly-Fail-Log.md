@@ -11,10 +11,17 @@ I really liked using Audacity, and I think that next time, I will be more aware 
 
 # Readings
 
-## title
+## An Artificial Environment is Often a Noisy Environment: Auditory SceneAnalysis and Speech Perception in Noise
 ### comments
+- I use white noise as well for something in the background. It's interesting that they choose to use that for this study.
 
-## title
-### comments.
+## Seeing, Hearing, FeelingSound and the Despotism of the Eyein “Visual” Anthropology
+### comments
+- I totally agree with you. This gives us such a good description. A lot of this reading has reminded me of a trend I have seen in popular media, especially around Halloween. It is where people put random music to horror movie scenes and then say the only reason it was scary was because of the sound. Sound gives us such an atmosphere and almost transports us to the moment we are seeing on the screen or hearing. It is a way that we can connect with others experiences and I think that a lack of sound is just as important.
+
+## Hearing Cultures 1-20
+### comments
+- I am glad that this is being mentioned. I think with a lot of the topics discussed in the readings about sound medicine is overlooked. Sound and what we expose ourselves to can be healing, which just goes to show how important sound is to convey things
+-  I really like your take on this. These are such important questions to ask and consider for an accessible and equal field of anthropology
 
 
