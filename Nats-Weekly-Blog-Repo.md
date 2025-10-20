@@ -17,6 +17,11 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ### Week 6
 - [DMP Website](https://dmptool.org/plans/143679/download)
 ## Learning Goals
+
+# Week 8
+This week was a struggle with me. Although I have experience coding I am not sure why it was so difficult for me. Some of the challenges confused me and I ended up going back and redoing things multiple times until I could understand what was happening or what changed. I could benefit from more practice with R. Also now I am kind of nervous for next semester because I know we will be using that for Quantatative Analysis. Hopefully that will give me the practice I need.
+Additionally, in the readings this week I felt like they are starting to be repetative of what has already been assigned as readings. I am not sure what else I can add to the conversatioin despite wanting to jump in. A lot of what I want to say I have already said in pervious readings and I do not really want to be repatative in my comments. I hope that the discussion boards on D2L start having questions again. The questions on the discussion board have resulted in some of my favorite conversations. Open ended questions about what we are doing really help me think through and understand what I am doing.
+
 # Week 7
 This week, we focused on cleaning data. I really enjoyed the readings and lecture videos, which helped me gain a better understanding of the importance of data cleaning and accessibility. The readings went into the ethical considerations surrounding the relationship between researchers and those being researched. One of the readings highlighted that written consent forms could jeopardize the safety of individuals, which is why oral consent is often preferred. Anonymity is the default in research, but if an individual is not anonymous, I believe it could be important to implement a multistep consent process at the beginning, middle, and end. This ensures that the individuals being researched understand the implications and know they can revoke consent at any time once the research has started. When individuals are not anonymous, there should be protections in place for both the researcher and the research subjects.
 
