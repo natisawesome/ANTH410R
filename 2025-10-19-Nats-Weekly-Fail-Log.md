@@ -1,28 +1,38 @@
-# Week 9 fail log
+# Week 10 fail log
 ## Summary of my Experience
-Audio Recording an Manipulation
+Social Media Outreach 
 
-### Audacity 
-Audacity gave me a bit of trouble at first because I didn’t realize I had to download multiple components to get it to work. However, once I did, the process became pretty straightforward. I recorded my interview on my phone using Voice Memos, but it wouldn’t accept any of the file formats I tried to convert it to. I’m not sure why that was the case, but I was able to experiment with the practice file provided in class this week. 
+### Social Media  
 
-I really liked using Audacity, and I think that next time, I will be more aware of what file types it does and does not accept. I can definitely see myself using this software in the future; it seems quite in-depth and reminds me of a system I used in a cinema class for video projects, although I can’t quite remember its name. Overall, Audacity is definitely user-friendly and perfect for projects like this.
 ## What to Work on for Next Week
-- Start final project
+- Continue final project
 
 # Readings
 
-## An Artificial Environment is Often a Noisy Environment: Auditory SceneAnalysis and Speech Perception in Noise
+## Bioarchaeology and the Media:Anthropology Scicomm in a Post-TruthLandscape
 ### comments
-- I use white noise as well for something in the background. It's interesting that they choose to use that for this study.
+- I feel like in anthropology this would be difficult to achieve. Defining your audience would be especially difficult. The way that articles are written is not necessarily accessible to the general public so you would first have to reassess how the information is getting to the public and then define your audience. However, like we have all seen with the social media there are a lot of anthropologists who spread information about what they are doing. I think this is a really good way to reach people
+- Exactly!! If an anthropologist wanted to focus on writing which the general public could understand it would not be accepted as academic. This "publish-or-perish mentality" makes it extremely difficult for anthropology to branch out and become more prevalent to the public. Those who would be best to teach the public about anthropology and the importance of what is studied in the field are trapped in the academic red tape
+- I agree with you. I do not think this would be trivial. Especially if a larger organization started one.
 
-## Seeing, Hearing, FeelingSound and the Despotism of the Eyein “Visual” Anthropology
+## Anthropology, Empathy,and the Need for SocialScience Communication
 ### comments
-- I totally agree with you. This gives us such a good description. A lot of this reading has reminded me of a trend I have seen in popular media, especially around Halloween. It is where people put random music to horror movie scenes and then say the only reason it was scary was because of the sound. Sound gives us such an atmosphere and almost transports us to the moment we are seeing on the screen or hearing. It is a way that we can connect with others experiences and I think that a lack of sound is just as important.
+- I have had multiple people ask me if anthropology is the study of ants. I agree that this field needs more exposure and representation to our society
+- I had never heard about a science communication teaching and research programs before. I would be interested to see what could happen if social sciences were included in that. I believe it would probably fix our lack of exposure, allowing for more discourse about what anthropologists can bring understanding to.
 
-## Hearing Cultures 1-20
-### comments
-- I am glad that this is being mentioned. I think with a lot of the topics discussed in the readings about sound medicine is overlooked. Sound and what we expose ourselves to can be healing, which just goes to show how important sound is to convey things
--  I really like your take on this. These are such important questions to ask and consider for an accessible and equal field of anthropology
--  I just want to say in general I love the concept of "hearing cultures." I feel like anthropology as a whole talks so much about observation but neglects hearing. Rather sight, taste, and smell are primary senses in many ethnographies. I wonder if there are readings on anthropological ethnography which emphasize the use of all the senses and teach students how to do so without favoring one? I would be interested to try out a method like that.
+# Discussion Post
+
+## Social Media:
+
+I follow Steph the Archaeologists on Facebook who makes short content form posts about what she is doing. This week she is in Istanbul. I really enjoyed learning about Byzantine history in Istanbul. Steph showed the ancient city of Constantinople and taught her followers about the aqueduct of Valens. She also taught us about the church of Saint Polyeuctus and the Theodoseus forum. The church of Saint Polyeuctus was the largest church in Constantinople before Hagia Sophia was built. I really enjoy Stephs content because it teaches a lot about history and blends in archaeology. 
+
+## Meme:
+
+My meme is from Lord of the Rings. I chose this because I am a big fan of Lord of the Rings. The caption reads, "One does not simply do anthropological research without a data management plan." This is because I feel like I learned a lot from the data management plan unit on the importance of having data management plans. Therefore, I thought it was fitting to use one of my favorite book and movie series to say something about the need for a data management plan in anthropological research.
+
+
+![Meme for Science and Tech](https://github.com/user-attachments/assets/66f54396-c8e9-47a0-8cce-b8477e2aa306)
+
+
 
 
