@@ -3,6 +3,7 @@
 Social Media Outreach 
 
 ### Social Media  
+I really like this week's social media focus. I follow a lot of anthropologists and archaeologists on my social media, so it was easy to find something that interested me. I absolutely love watching content from Steph the Archaeologist, so I had to give her a shoutout. I also enjoyed making the meme this week; it was an awesome exercise
 
 ## What to Work on for Next Week
 - Continue final project
