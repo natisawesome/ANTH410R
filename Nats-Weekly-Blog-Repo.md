@@ -17,6 +17,9 @@ Hi, I am Nat a current undergraduate student in anthropology. My passions in ant
 ### Week 6
 - [DMP Website](https://dmptool.org/plans/143679/download)
 ## Learning Goals
+# Week 11
+
+This week I am using one of my dropped weeks. I am not feeling well and I need to be rested for my conference. I thought I was going to be feeling better by today but I am not.
 
 # Week 10
 I don't have much to say about this week's exercises other than that I enjoyed them immensely. The social media activity was great, as was the meme making. I spent some time thinking about the meme throughout the week, trying to decide what had been most meaningful to me in the class so far. 
