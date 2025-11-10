@@ -60,6 +60,9 @@ K: "Sometimes when I do not feel like getting up in the morning or taking on res
 
 # Readings
 
-## Name
+## Visual note-making: Photo-elicitation and photographic re-interpretations as collaborative anthropological techniques 
 ### comments
+Quote: "photographs suggest meaning through theway in which they are structured, for representational form makes an imageaccessible and comprehensible to the mind, informing and informed by awhole hidden corpus of knowledge that is called on through the signifiers inthe image’ (1992:8). Hence, the interpretation of photographs largely hingeson the subjective" I replied to this and said I really like this quote
+
+Yes!! That is what it seems like they are referring to. I really love this. It seems like the photographs give the audience a way to understand the emotional registers that were within the conversations
 
