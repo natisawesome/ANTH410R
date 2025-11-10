@@ -38,7 +38,7 @@ The second image pictured above is an image of the wooden figurine on a desk nex
 
 
 ### Photo Assignment 3
-This was my favorite part of the assignment. i actually struggled to identify who I was going to chose for this interview. Some of my responsibility for the conference was to conduct student interviews and work for the student committee to do so properly as I have experince with ethnographies and proper interview process. I interviewed a lot of people on topics pertaining to the conference. However, the one that stood out most to me was the one I did with my friend. That is what I based this assignment off of.
+This was my favorite part of the assignment. i actually struggled to identify who I was going to chose for this interview. Some of my responsibility for the conference was to conduct student interviews and work for the student committee to do so properly as I have experince with ethnographies and proper interview process. I interviewed a lot of people on topics pertaining to the conference. These topics were just about the conference and I struggled have time to interview someone for something else that did not fall under my perview of reponsibility. Despite my failure to interview a stranger for this project, I was able to interview a fellow board member, whom I do not speak with outside of the topics discussed for the benefit of students and the organization as a whole. 
 I was in San Diego for a conference this week. There I was able to interview one of my dear friends Kat. Who has given permission to use her nickname, photo, and quotes from the interview. I started off this conversation by asking her if she had any words of wisdom for future students who struggle with motivation, what would it be.
 
 Interview with Kat:
