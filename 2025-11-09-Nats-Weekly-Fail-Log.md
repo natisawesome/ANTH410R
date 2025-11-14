@@ -19,7 +19,7 @@
 ## Listmania A Few Thoughts on One Page From a 6,500 Cubic Feet Collection 
 ### Comments
 - I had never heard of the McCarthy era before. I googled it and it seems like a very politically charged time. This is definitely something I will look more into in the future.
-- We have been learning about this history of anthropologists being pressured to conform or working with the government for their own personal gain in one of Dr. Greers classes. I highly recommend it. But back to the quote... the list targeting activists is still something we see today from certain organizations unfortunately. A quick scroll through one such list has people on there for teaching things such as women's and queer studies. Sad to see this is still something professors and activists alike are dealing with today
+- We have been learning about this history of anthropologists being pressured to conform or working with the government for their own personal gain in one [redacted]. I highly recommend it. But back to the quote... the list targeting activists is still something we see today from certain organizations unfortunately. A quick scroll through one such list has people on there for teaching things such as women's and queer studies. Sad to see this is still something professors and activists alike are dealing with today
 ## Katherine Dunham papers Finding Aid
 ### Comments
 - It was really eye opening to scroll through this and see how much Katherine Dunham was involved with. I saw things from Black Panther to Dora mentioned in her correspondences. I think this really shows the scope of an anthropologists reach and impact in history
