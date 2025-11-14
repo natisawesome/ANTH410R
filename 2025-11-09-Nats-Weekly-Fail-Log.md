@@ -16,6 +16,7 @@
 ### Comments
 ## 	Anthropologists in the Archives A Brief Guide for the Perplexed
 ### Comments
+- This is not the first time this book has been mentioned in the readings this week. I might check it out. Albeit, I did the readings completely out of order so maybe this is the first time this has been mentioned. (The book is called Threatening Anthropology)
 ## Listmania A Few Thoughts on One Page From a 6,500 Cubic Feet Collection 
 ### Comments
 - I had never heard of the McCarthy era before. I googled it and it seems like a very politically charged time. This is definitely something I will look more into in the future.
