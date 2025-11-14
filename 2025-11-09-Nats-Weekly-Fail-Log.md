@@ -14,6 +14,7 @@
 # Readings
 ## On Using Archives and Freedom of Information Act for Anthropological Research
 ### Comments
+- This seems like it will be super helpful!
 ## 	Anthropologists in the Archives A Brief Guide for the Perplexed
 ### Comments
 - This is not the first time this book has been mentioned in the readings this week. I might check it out. Albeit, I did the readings completely out of order so maybe this is the first time this has been mentioned. (The book is called Threatening Anthropology)
