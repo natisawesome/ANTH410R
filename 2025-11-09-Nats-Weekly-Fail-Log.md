@@ -18,6 +18,7 @@
 ### Comments
 ## Listmania A Few Thoughts on One Page From a 6,500 Cubic Feet Collection 
 ### Comments
+-I had never heard of the McCarthy era before. I googled it and it seems like a very politically charged time. This is definitely something I will look more into in the future.
 ## Katherine Dunham papers Finding Aid
 ### Comments
 -
