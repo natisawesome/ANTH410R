@@ -1,9 +1,9 @@
 # Week 13 fail log
 ## Summary of my Experience
 
-### Transcriptions
+### Transcriptions/Archival Woek
 
-
+I really liked this weeks work. I cannot currently access D2L so of course that is a big issue that I ran into. However, I was able to completele all of the readings and the transcriptions.
 
 
 
