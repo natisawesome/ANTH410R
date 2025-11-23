@@ -20,5 +20,6 @@
 - I agree.
 - I think this is a really interesting point. I never considered that the importance of senses changed with stages of life, but it makes a lot of sense. Different age groups are indoctrinated into what is meant to be important for them.
 
- 
+ ## Film and new food rituals in the time of COVID-19 – TANGIBLE TERRITORY
+ ### Comments
 - A professor showed us this video in one of his classes. It evokes such emotion from the audience. If you have not seen the video, I highly recommend it. I have linked it if anyone wants to watch it. Presidents Choice Ad
