@@ -27,3 +27,4 @@
 ## Name
 ### Comments
 - I agree. This is a totally new concept to me that seems really interesting.
+- It's interesting to consider how although the digital may be more accessible that it can't necessarily replace the physical because of things that the digital realm cannot yet replicate like the senses. If or when technology comes to a point where it can replicate the physical tactile senses, I wonder if digital infrastructures of things like this overtake physical.
