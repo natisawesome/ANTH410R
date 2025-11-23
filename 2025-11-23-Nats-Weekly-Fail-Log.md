@@ -1,10 +1,10 @@
 # Week 14 fail log
 ## Summary of my Experience
 
-### Senses
-## Taste
-## Touch
-## Smell
+## Senses
+### Taste
+### Touch
+### Smell
 
 
 
