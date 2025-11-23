@@ -14,3 +14,6 @@
 - Continue final project
 
 # Readings
+## Doing Sensory Anthropology
+### Comments
+
