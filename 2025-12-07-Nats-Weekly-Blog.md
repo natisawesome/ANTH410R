@@ -5,6 +5,8 @@ This capstone project explores how anthropologists can bring the physical world 
 
 This project was far more challenging than I anticipated. My original plan was to utilize mobile 3D scanning applications; however, the results were consistently bad, lacking details and large portions of the artifacts. Despite testing six different apps and following their instructions carefully, the apps all produced incomplete models, extensive smoothing (making the artifacts look like AI and lack any detail), and a lack of detail (roughness, wear and tear, texture, and designs). Many of the applications also required payment to export or to scan in general. After exhausting all of my options, I attempted to pivot to actual 3D scanners avaliable at the curation facility off campus. This did not work. I then pivoted back to 3D scanning apps. Ultimatly, I ended up using Capture, the 3D scanning app, SketchFab, and an interactive PowerPoint.
 
+The PowerPoint and 3D Scans are linked at the bottom of this page in the section titled Final Project
+
 ## Scanner Limitations:
 ### PolyCam
 This is the middle ground and this should be the best as it works with Lidar. You get 10 free scans before you have to pay. I find the scanning very difficult and not user friendly or understandable at all. However, this does include tutorial videos so that is very helpful. However, despite the tutorials, I have not actually been able to figure out how to scan more than just the top of the artifact.
