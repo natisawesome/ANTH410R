@@ -22,6 +22,11 @@ This is the first 3D scanner I tried. While this was able to produce partial sca
 - The scanner's software was so outdated that files could not be uploaded to any contemporary 3D viewing software I could find (Microsoft 3D, GIMP, Blender, or SketchFab).
 - To scan a small artifact took roughly 30 minutes per artifact.
 
+Image Below is 30+ minutes of scanning a complete artifact this is all that came out.
+
+<img width="379" height="239" alt="image" src="https://github.com/user-attachments/assets/eb84e34d-da33-4aae-abf1-4bf9773adf5d" />
+
+
 Because of these issues, the Matter and Form scanner was not a viable option for producing usable accessible models.
 ### Next Engine Desktop 3D Scanner
 I also attempted to use the second scanner in the facility. This scanner is a newer more expensive model, so I thought there might have been a chance this could work. Unfortunatly, this device could not be powered on or connected to the SIU network, even with assistance. This left me without any functional 3D scanner options. So I pivoted back to the 3D scanning apps, which could at least produce some type of scan that could be uploaded to contemporary 3D viewing software.
@@ -70,6 +75,8 @@ I chose this project because I wanted to challenge myself to learn new digital a
 [SketchFab 3D Scans](https://skfb.ly/pE9Wx )
 ## PowerPoint
 [Link to Digital Museum](https://saluki-my.sharepoint.com/:p:/g/personal/natalie_eves_siu_edu/IQBH9yV1W0WAS7YDoOrJelfTAS9KdYtpqiCyDECDon7QEew)
+
+
 ### Notable Mentions:
 Attempt to 3D Scan a round button (Don't do it)
 
