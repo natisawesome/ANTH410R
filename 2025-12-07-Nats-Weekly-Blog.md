@@ -69,7 +69,7 @@ I chose this project because I wanted to challenge myself to learn new digital a
 ## 3D Scans
 [SketchFab 3D Scans](https://skfb.ly/pE9Wx )
 ## PowerPoint
-
+[Link to Digital Museum](https://saluki-my.sharepoint.com/:p:/g/personal/natalie_eves_siu_edu/IQBH9yV1W0WAS7YDoOrJelfTAS9KdYtpqiCyDECDon7QEew)
 ### Notable Mentions:
 Attempt to 3D Scan a round button (Don't do it)
 
