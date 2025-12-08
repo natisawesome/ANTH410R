@@ -71,3 +71,9 @@ I chose this project because I wanted to challenge myself to learn new digital a
 ## PowerPoint
 
 ### Notable Mentions:
+Attempt to 3D Scan a round button (Don't do it)
+<img width="534" height="380" alt="image" src="https://github.com/user-attachments/assets/33062d88-e980-445d-abc3-d2196a5bbe88" />
+Because all of the software or 3D scanning apps literally tell you to not do glass or shiny things. Of course I had to try. (They were right don't do it)
+<img width="308" height="358" alt="image" src="https://github.com/user-attachments/assets/39188b9d-99bf-4bb3-b243-e796bdf4a2e4" />
+
+
