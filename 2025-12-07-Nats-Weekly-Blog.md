@@ -82,7 +82,7 @@ I chose this project because I wanted to challenge myself to learn new digital a
 [Link to Digital Museum](https://saluki-my.sharepoint.com/:p:/g/personal/natalie_eves_siu_edu/IQBH9yV1W0WAS7YDoOrJelfTAS9KdYtpqiCyDECDon7QEew)
 
 
-### Notable Mentions:
+### Honorable Mentions:
 Attempt to 3D Scan a round button (Don't do it)
 
 
