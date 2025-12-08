@@ -7,6 +7,18 @@ This project was far more challenging than I anticipated. My original plan was t
 
 The PowerPoint and 3D Scans are linked at the bottom of this page in the section titled Final Project
 
+## Historical Background of Artifacts Utilized:
+(This information can be found in the PowerPoint)
+### Miller’s Grove:
+Miller Grove was founded in 1844 by freed enslaved African Americans from Tennessee. Miller Grove then developed into a rural African American farmstead community in Pope County, Illinois. The community grew quickly, there were over 66 residents by 1860, all of whom were spread out across 19 farmsteads. Additionally, Miller’s Grove contained at least two church and school sites, as well as a cemetery. Oral history indicates that Miller Grove had ties to the underground railroad. The community continued to prosper into the early 1900s; when its numbers reached their peak with 108 individuals living in the community. 
+
+By the late 1920’s Miller’s Grove was abandoned. The community declined due to soil exhaustion, economic hardship, and racial violence. Oral history indicates that the local AME (African Methodist Episcopalian) church was burned down in 1918, shortly after the 1917 St. Louis race riots. Before Archeological excavation was done at Miller Grove the sites were never plowed, so foundations, cisterns, and surface features remained visible. Southern Illinois University – Carbondale and the Shawnee Forest Surface worked together to host a program called Passport in Time, where Miller’s Grove was excavated by SIU students and forest service volunteers throughout the late 2010’s.
+### Abby's Place and McClure's Farmsteads:
+
+Wilbert McClure is a direct descendant of some of Miller Grove’s original settlers, Bedford and Abigail Miller. Abby’s Place represents the farmstead where the Millers first settled, while McClure’s Farmstead sits on the 20 acres of land still owned and maintained by Wilbert McClure today. This continuity of ownership is significant because by the late 1920s, most of Miller Grove was abandoned and much of the land was sold to the Forest Service and incorporated into the Shawnee National Forest. Wilbert McClure is one of the few descendants who retained land, allowing for ongoing preservation, documentation, and descendant stewardship of the community's history. Both Abby’s Place and McClure’s farmsteads are domestic sites where archeological materials reflect everyday lives of the families who lived and farmed there, offering an important window into the lived experiences on this rural community.
+
+
+
 ## Scanner Limitations:
 ### PolyCam
 This is the middle ground and this should be the best as it works with Lidar. You get 10 free scans before you have to pay. I find the scanning very difficult and not user friendly or understandable at all. However, this does include tutorial videos so that is very helpful. However, despite the tutorials, I have not actually been able to figure out how to scan more than just the top of the artifact.
