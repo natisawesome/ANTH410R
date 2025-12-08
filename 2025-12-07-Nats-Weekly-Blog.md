@@ -59,11 +59,11 @@ This project required repeated pivots, and each stage presented unforeseen obsta
 ### Technical Limitations:
 Incomplete scans, outdated scanners, software restrictions (Thanks University), and compatibility issues.
 ### Access Issues:
-The unavailability of an appropriate photgraphy backdrop required improvision. No answer from CVEX. Payments required for multiple softwares and apps. 
+The unavailability of an appropriate photography backdrop required improvision. No answer from CVEX. Payments required for multiple softwares and apps. 
 ### Software Complexity:
 Blender's rough learning curve limited my ability to produce a unified exhibit.
 ### Image Processing Issues:
-Some photos in powerpoint repeatedly distorted or flipped despite multiple attempts to correct them.
+Some photos in PowerPoint repeatedly distorted or flipped despite multiple attempts to correct them.
 These challenges affected the final product and made it difficult to achieve the quality of work that I strive for.
 ## Reflection on Project Purpose and Process:
 
