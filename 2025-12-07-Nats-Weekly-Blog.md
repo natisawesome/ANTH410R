@@ -43,7 +43,9 @@ Following my attempt to create a digital museum display in SketchFab I looked in
 
 ## Alternative Solution: PowerPoint Digital Museum Display:
 After exploring all of the above options, I emailed the CVEX lab at my university to see if they had a 3D scanner I could use. Unfortunatly, I got no reply. So I went in person when I had time and no one was there. As a final pivot, I created a digital museum display using PowerPoint.
-- I photographed each artifact (front and back), using improvised studio conditions (see the image below). The curation center is missing its black professional baackdrop.
+- I photographed each artifact (front and back), using improvised studio conditions (see the image below). The curation center is missing its black professional backdrop.
+- <img width="356" height="478" alt="image" src="https://github.com/user-attachments/assets/52dc71e7-4a48-4215-896f-6aa391e6eace" />
+
 - I curated the images, context, and links to all SketchFab models into a single interactive slideshow.
 - I created a SketchFab collection to group the scans and added annotations to each model.
 This approach allowed to to present the artifacts cohesively despite the limitations of the scanning technologies. I was also able to use some of the skills I learned during the week we practice professional artifact photgraphy.
