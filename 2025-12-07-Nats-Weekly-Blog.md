@@ -1,6 +1,7 @@
 # Week 15 - Final Blog Post
 
 ## Project Summary and Outcomes:
+This project was far more challenging than I anticipated. My original plan was to utilize mobile 3D scanning applications; however, the results were consistently bad, lacking details and large portions of the artifacts. Despite testing six different apps and following their instructions carefully, the apps all produced incomplete models, extensive smoothing (making the artifacts look like AI and lack any detail), and a lack of detail (roughness, wear and tear, texture, and designs). Many of the applications also required payment to export or to scan in general. After exhausting all of my options, I attempted to pivot to actual 3D scanners avaliable at the curation facility off campus.
 ## Scanner Limitations:
 ### PolyCam
 ### Capture 
@@ -9,17 +10,46 @@
 ### Abound
 ### Scaniverse
 ### Matter and Form 3D Scanner
+This is the first 3D scanner I tried. While this was able to produce partial scans there were significant limitations:
+- The scanner could not capture the bottom surfaces of artifacts (same problem I was having with the apps).
+- Fine details were not recorded and instead appeared as blurred pixels.
+- The scanner's software was so outdated that files could not be uploaded to any contemporary 3D viewing software I could find (Microsoft 3D, GIMP, Blender, or SketchFab).
+- To scan a small artifact took roughly 30 minutes per artifact.
+
+Because of these issues, the Matter and Form scanner was not a viable option for producing usable accessible models.
 ### Next Engine Desktop 3D Scanner
+I also attempted to use the second scanner in the facility. This scanner is a newer more expensive model, so I thought there might have been a chance this could work. Unfortunatly, this device could not be powered on or connected to the SIU network, even with assistance. This left me without any functional 3D scanner options. So I pivoted back to the 3D scanning apps, which could at least produce some type of scan that could be uploaded to contemporary 3D viewing software.
 ## 3D Scanning Software and Application Limitations:
+Returning to mobile applications, I ultimately selected Capture as the only app capable of producing somewhat usable scans. Even so, several challenges still remained.
+- The bottom portioins of artifacts did not scan in unless you could flip the object onto 3 different sides. (Almost impossible to find artifacts that can do this, not just front and back)
+- White, clear, or reflective objects, such as glass, could not be captured.
+- Most artifacts only had two scannable sides (front and back), but Capture required 3 or more positions to record the whole artifact.
+- These restirictions significantly limited the range of artifacts I could include.
+Because of these constraints, I selected several ceramic fragments that could be balanced on at least three sides. These fragments, however, had minimal contextual information beyond their provenience (Miller's Grove, Abby's Place, Unit 39.) This limited the interpretive depth I could provide in the final display. I checked the Miller Grove paper work, site information, unit forms, and other written materials provided along with the site paperwork. Additionally, I scanned and utilized three other artifacts in my final project ( two whiteware p late fragments and one porcelain base fragment) to demonstrate decorative details or destructive archeological practice. Obtaining just these scans with the limited detail they provide required multiple attemptes, and the bottom of the surfaces could not be recorded.
 ## Software for Processing and Access:
 ### Sketch Fab
+My intial plan was to construct a digital museum display using SketchFab. However, SketchFab does not allow users to combine multiple artifact scans into a cohesive exhibit. Though I was able to upload individual scans and annotate them, this platform alone could not support the level of integration I was looking for. This is the best option for uploading 3D scans. You are limited to 10 uploads per account on the free version. Luckily, my uncle is an engineer and was able to get me the pro for free because of his work. 
 ### Microsoft 3D Editor 
+I did want to talk about Microsofts 3D editer a little bit. This doesn't work with too many things, and has very limited capabilites. If you just need to upload a 3D scan for personal use I would recommend this. If you are looking to make the scans accessible I would recommend SketchFab or Blender if you dedicate the time to learn it.
 ### Blender
+Following my attempt to create a digital museum display in SketchFab I looked into Blender. Blender is completely free. Despite watching multiple tutorials, I found Blender too technically complex for the scope and timeline of this project. If I had dedicated at least 2 months to figuring out this software, I may have been able to figure it out. The software required a level of proficiency that I had not yet developed with it, making it impractical for me to continue working with it when I was not making any progress to further my project. However, I want to note that this is most likely the best option for a 3D interactive digital museum display. If someone dedicates a long time to figuring out this software they may be able to create something amazing on this.
 ## Alternative Solution: PowerPoint Digital Museum Display:
+After exploring all of the above options, I emailed the CVEX lab at my university to see if they had a 3D scanner I could use. Unfortunatly, I got no reply. So I went in person when I had time and no one was there. As a final pivot, I created a digital museum display using PowerPoint.
+- I photographed each artifact (front and back), using improvised studio conditions (see the image below). The curation center is missing its black professional baackdrop.
+- I curated the images, context, and links to all SketchFab models into a single interactive slideshow.
+- I created a SketchFab collection to group the scans and added annotations to each model.
+This approach allowed to to present the artifacts cohesively despite the limitations of the scanning technologies. I was also able to use some of the skills I learned during the week we practice professional artifact photgraphy.
 ## Challenges Encountered:
+This project required repeated pivots, and each stage presented unforeseen obstacles. This project was very difficult.
 ### Technical Limitations:
+Incomplete scans, outdated scanners, software restrictions (Thanks University), and compatibility issues.
 ### Access Issues:
+The unavailability of an appropriate photgraphy backdrop required improvision. No answer from CVEX. Payments required for multiple softwares and apps. 
 ### Software Complexity:
+Blender's rough learning curve limited my ability to produce a unified exhibit.
 ### Image Processing Issues:
+Some photos in powerpoint repeatedly distorted or flipped despite multiple attempts to correct them.
+These challenges affected the final product and made it difficult to achieve the quality of work that I strive for.
 ## Reflections:
+Although this process was very frustrating and at times discouraging, I gained a lot of valuable insight into the realities of digital curation, public accessibility, and the labor involved in producing open access museum materials. I learned firsthand how cost barriers, outdated technology, and software limitations restrict what can be created and shared with the public. Despite these difficulties, I am proud of the adaptavility, problem solving, and persistence I demonstrated. The final product reflects my best effort within the constraints I encountered. I also believe that the documentation of this process, on GitHub, may serve as a helpful guide for future students attempting similar work. By outlining what did and did not work, others may be able to build upon my experience and find solutions that were not available to me.
 
