@@ -4,11 +4,17 @@
 This project was far more challenging than I anticipated. My original plan was to utilize mobile 3D scanning applications; however, the results were consistently bad, lacking details and large portions of the artifacts. Despite testing six different apps and following their instructions carefully, the apps all produced incomplete models, extensive smoothing (making the artifacts look like AI and lack any detail), and a lack of detail (roughness, wear and tear, texture, and designs). Many of the applications also required payment to export or to scan in general. After exhausting all of my options, I attempted to pivot to actual 3D scanners avaliable at the curation facility off campus.
 ## Scanner Limitations:
 ### PolyCam
-### Capture 
+This is the middle ground and this should be the best as it works with Lidar. You get 10 free scans before you have to pay. I find the scanning very difficult and not user friendly or understandable at all. However, this does include tutorial videos so that is very helpful. However desptie the tutorials, I have not actually been able to figure out how to scan more than just the top of the artifact.
+### Capture
+I found capture to be the most user friendly, free, and plausable. However, once you scan a couple times it asks you to pay, but does not make you pay to export. I am also having issues with the scans that although I am able to capture the tops, sides, and bottoms of the artifacts the details are REALLY lacking on the scans. You can see the shape and what the artifact is but nothing more indepth than that. I ultimatly decided to use this software for my 3D scans. This is because there are work arounds for the payment as you can delete previous scans you have exported to create more space for new ones. My main reason for choosing this was it was the best quality I could get and the work around for payment.
 ### Dot 3D
+This was a disappointment once you try to scan you have to pay. 
 ### KIRI Engine 
+Free app as far as I have been able to tell. Limit of scans once you get past a certain point. Works exactly the same as Capture, but no work around on the limit.
 ### Abound
+This does not work without paying
 ### Scaniverse
+This does not work without paying.
 ### Matter and Form 3D Scanner
 This is the first 3D scanner I tried. While this was able to produce partial scans there were significant limitations:
 - The scanner could not capture the bottom surfaces of artifacts (same problem I was having with the apps).
@@ -52,4 +58,7 @@ Some photos in powerpoint repeatedly distorted or flipped despite multiple attem
 These challenges affected the final product and made it difficult to achieve the quality of work that I strive for.
 ## Reflections:
 Although this process was very frustrating and at times discouraging, I gained a lot of valuable insight into the realities of digital curation, public accessibility, and the labor involved in producing open access museum materials. I learned firsthand how cost barriers, outdated technology, and software limitations restrict what can be created and shared with the public. Despite these difficulties, I am proud of the adaptavility, problem solving, and persistence I demonstrated. The final product reflects my best effort within the constraints I encountered. I also believe that the documentation of this process, on GitHub, may serve as a helpful guide for future students attempting similar work. By outlining what did and did not work, others may be able to build upon my experience and find solutions that were not available to me.
+
+
+# Final Project
 
