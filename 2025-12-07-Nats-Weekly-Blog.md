@@ -66,4 +66,8 @@ I chose this project because I wanted to challenge myself to learn new digital a
 
 
 # Final Project
+## 3D Scans
 [SketchFab 3D Scans](https://skfb.ly/pE9Wx )
+## PowerPoint
+
+### Notable Mentions:
